@@ -1,0 +1,29 @@
+# Android / IDE / generated outputs
+**/build/
+.gradle/
+.kotlin/
+.idea/
+*.iml
+.externalNativeBuild/
+.cxx/
+captures/
+.DS_Store
+
+# Developer-owned credentials and local machine configuration
+local.properties
+**/google-services.json
+**/*service-account*.json
+**/firebase-admin*.json
+.env
+.env.*
+!.env.example
+**/.secret.local
+*.jks
+*.keystore
+
+# Agenda tooling caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.venv*/

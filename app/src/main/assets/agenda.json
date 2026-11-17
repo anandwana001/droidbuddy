@@ -1,0 +1,1731 @@
+{
+  "event": "droidcon India 2026",
+  "date": "2026-11-20",
+  "timezone": "Asia/Kolkata",
+  "sourceUrl": "https://india.droidcon.com/droidcon-agenda",
+  "feedUrl": "https://sessionize.com/api/v2/qfgx6adj/view/GridSmart",
+  "importedAt": "2026-11-17T14:29:15.275341+05:30",
+  "sourceRevision": "572aeae42127d06be88f9f903230ad9f61512d96a40eee2466a37b2a6101a20e",
+  "sessionCount": 67,
+  "placementCount": 67,
+  "speakerCount": 52,
+  "sessions": [
+    {
+      "id": "2f78b3b8-9abd-48f7-92d4-d745582823d0",
+      "title": "Registration & Check-In",
+      "abstract": "07:30 – 09:00 → 90 min",
+      "startTime": "2026-11-20T07:30:00+05:30",
+      "endTime": "2026-11-20T09:00:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": true
+    },
+    {
+      "id": "1325182",
+      "title": "Android Beyond Apps: AI, Agents, and the Next Platform Shift (with QnA)",
+      "abstract": "As AI shifts from passive assistants to on-device autonomous agents, mobile software is undergoing its most significant platform transition in decades. Android is evolving from a visual app launcher into an intelligent runtime where system-level agents orchestrate multi-step workflows across applications.\r\n\r\nIn this opening keynote panel followed by open QnA, engineering and developer advocacy leaders from Google, Swiggy, Uber, Groww, and American Express unpack how the platform is adapting to an agent-first world. The panel examines the shift toward AppFunctions and on-device tool calling, privacy boundaries for autonomous execution, and why developers must start treating app capabilities as structured APIs alongside visual screens.\r\n\r\nDevelopers will walk away with an insider look at Android’s platform roadmap and practical guidance on preparing production codebases for an agent-driven ecosystem.",
+      "startTime": "2026-11-20T09:00:00+05:30",
+      "endTime": "2026-11-20T09:40:00+05:30",
+      "rooms": [
+        "Ballroom 2"
+      ],
+      "speakers": [
+        {
+          "id": "36520f12-e401-427f-beda-b5c13dc1b58d",
+          "name": "Amrit Sanjeev",
+          "headline": "Staff Developer Advocate , Google ",
+          "bio": "Amrit Sanjeev is a Staff Developer Advocate at Google India and is a lead in the Android Developer Relations team. Previously, he held diverse roles (TLM, research engineer, lead architect) at Intuit, Philips Research, and IBM. Amrit was the first Android Google Developer Expert from India and also founded Blrdroid - an open Android developer community .\r\n",
+          "photoUrl": "https://cdn.sessionize.com/image/2c80-400o400o1-VhLceXK7idfGszHuEccHD8.png"
+        },
+        {
+          "id": "4e935388-45f2-4445-8e66-9838dbf3ccd6",
+          "name": "Belal Khan",
+          "headline": "Google Developer Expert, Android | Senior Engineer, American Express | Simplifying Android, Empowering Developers",
+          "bio": "I’m a GDE with over a decade of experience building Android apps, and I've had the opportunity to speak at tech conferences and community events in India and internationally. I enjoy sharing what I learn through talks, open-source projects, and tutorials focused on Jetpack Compose and modern Android development.",
+          "photoUrl": "https://cdn.sessionize.com/image/1838-400o400o1-w3QcEJ4upfZu6gcK5EfeA4.jpg"
+        },
+        {
+          "id": "e141ad29-3765-491d-816e-ae82a641017f",
+          "name": "Arun Babu A S P",
+          "headline": "Principal Engineer, Uber",
+          "bio": "I started my career in 2006 as a Mobile Engineer, and over the years, I’ve worked across data, app health, experimentation, multimedia, and networking, keeping mobile as my anchor. What excites me most is building platforms that combine technical depth and data-driven insights to make systems more resilient, observable, and scalable.\r\n\r\nAlong the way, I’ve enjoyed mentoring Mobile Architects, advising founders and tech teams on how to scale their systems and organizations. Lately, I’ve been spending much time using AI to level up engineering teams, and I’m always up for a conversation if that sparks your interest.",
+          "photoUrl": "https://cdn.sessionize.com/image/8ea7-400o400o1-RUeuFSvWh68J8MYZ7sGX2n.png"
+        },
+        {
+          "id": "a7da8c70-c13b-4ad5-aa0a-ddb502e5eed6",
+          "name": "Jitin Sharma",
+          "headline": "Senior Software Architect, Groww",
+          "bio": "Jitin works as an Architect at Groww, India. He previously worked on Design Systems at Gojek and airline applications at Amadeus. He is an international speaker, technical writer and community organiser for Android.",
+          "photoUrl": "https://cdn.sessionize.com/image/39ef-400o400o1-pZrx5e84tiQ7mXeWemVqAD.jpeg"
+        },
+        {
+          "id": "481cd220-153b-4f1b-a4c5-5b4db5e8a779",
+          "name": "Tushar Tayal",
+          "headline": "Head of Mobile and Web Engineering - Swiggy and Instamart | Head of Engineering - Dineout and Scenes | AVP @ Swiggy  | Ex-Microsoft · Samsung · Ola",
+          "bio": "I lead mobile and web engineering at Swiggy. With over a decade of experience building apps, I’m driven by one thing: creating smooth, scalable experiences for millions of users. I also love public speaking and sharing what I’ve learned with the wider community.\r\n",
+          "photoUrl": "https://cdn.sessionize.com/image/627e-400o400o1-J232aUXkkyy9cNBDC9e1Dt.png"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "level": "Introductory and overview",
+      "format": "Panel Discussion",
+      "service": false,
+      "plenum": true
+    },
+    {
+      "id": "ea092446-7d8f-41bf-a422-5c9d9d6bb6b8",
+      "title": "1:1 with Android team. Bring your blockers — architecture, Compose, performance. Expert names soon!",
+      "abstract": "",
+      "startTime": "2026-11-20T09:40:00+05:30",
+      "endTime": "2026-11-20T10:55:00+05:30",
+      "rooms": [
+        "Ask Google: 1:1 with the Android Team"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "b657b7c5-112d-46e0-9251-02887b2c5c50",
+      "title": "Cookies Break",
+      "abstract": "09:40 – 10:10 → 30 min",
+      "startTime": "2026-11-20T09:40:00+05:30",
+      "endTime": "2026-11-20T10:10:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": true
+    },
+    {
+      "id": "564e2dda-f0ed-4e0f-8b58-2cb56956b2b6",
+      "title": "GDG Gurugram & GDG Ahmedabad",
+      "abstract": "",
+      "startTime": "2026-11-20T10:00:00+05:30",
+      "endTime": "2026-11-20T11:00:00+05:30",
+      "rooms": [
+        "Community Booth"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "1319745",
+      "title": "Zebra's Frontline AI Suite - Building On-Device AI Applications",
+      "abstract": "Building AI-powered enterprise Android apps often means battling high cloud compute costs, network latency, and complex machine learning pipelines. This session introduces Zebra’s Frontline AI Enablers—a powerful suite of fine-tuned models, SDKs, and accelerators designed to run advanced AI vision tasks directly on-device.\r\n\r\nWe will explore how to effortlessly integrate enterprise-grade AI into your apps using Android’s CameraX framework. You will learn how to bypass traditional ML hurdles and deliver lightning-fast, offline-capable vision applications without needing a background in data science.\r\n\r\nKey Learning Outcomes:\r\n\r\n* The Edge AI Advantage: Understand how on-device processing eliminates cloud costs, reduces latency, and guarantees data privacy.\r\n* Inside the Toolkit: Explore the core components of the suite: the AI Data Capture SDK, Enterprise APIs, and ready-to-use Sample Apps.\r\n* Frictionless CameraX Integration: Learn how to quickly bridge Zebra’s pre-trained models with Android’s native CameraX framework.\r\n* Deploy Without Training: Discover how to implement intelligent vision features without collecting massive datasets or building custom ML pipelines.\r\n* Real-World Implementation: Watch live demos of the SDK in action and gather architectural building blocks for your own enterprise projects.",
+      "startTime": "2026-11-20T10:10:00+05:30",
+      "endTime": "2026-11-20T10:50:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [
+        {
+          "id": "5d1eb8da-5219-4b11-9fbd-519476915a37",
+          "name": "Rajeev Varma",
+          "headline": "Senior Manager, Software Engineering, Zebra Technologies",
+          "bio": "With over 20 years of Industry experience, Rajeev is an established leader in the Connected Front Line division in Zebra. Over the past decade, Rajeev has successfully lead Zebra in launching many of its Android based Mobile computers, targeted for the enterprise world. Rajeev currently leads the Data Capture (SW) division in Zebra, that focusses on Vision AI based solutions leveraging the compute capabilities of Zebra's mobile computers.",
+          "photoUrl": "https://cdn.sessionize.com/image/b685-400o400o1-ngJ7jzBgujZpwAYrn5Xuk1.jpg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "AI/ML"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1303715",
+      "title": "0-100 under 3 secs : Managing Startup Times at BookMyShow Scale",
+      "abstract": "This session talks about how we managed to reduce our app start up while increasing control and complexity of what we do when users open the app. The talks navigates around topic of caching strategy, configurations, managing concurrency, benchmarking and analysing data to take important decisions. ",
+      "startTime": "2026-11-20T10:10:00+05:30",
+      "endTime": "2026-11-20T10:50:00+05:30",
+      "rooms": [
+        "Ballroom 2"
+      ],
+      "speakers": [
+        {
+          "id": "83a03184-5c4f-46fa-8303-af72e171f414",
+          "name": "Avik Mukherjee",
+          "headline": "Engineering Manager - Mobile Applications, BookMyShow",
+          "bio": "Started as an an android developer a decade back, quickly grew a knack of solving complex business use cases agnostic of stack or technology. I love sharing what I learn. I believe technology exists to enable people and businesses.",
+          "photoUrl": "https://cdn.sessionize.com/image/4761-400o400o1-QuJX2znUnkJgE5KuRBoSst.jpg"
+        },
+        {
+          "id": "05b35d81-ad2a-46dd-bd86-8a0302e1ae94",
+          "name": "Gaurav Thakkar",
+          "headline": "Ex - Senior Android at BookMyShow ",
+          "bio": "Building mobile experiences that users return for and relate, while ensuring they follow the best industry practices for the last 5 years",
+          "photoUrl": "https://cdn.sessionize.com/image/cac4-400o400o1-a7Ptmrtm6wbqBtJGqtQpTC.jpg"
+        }
+      ],
+      "tags": [],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1308516",
+      "title": "Beyond Leak Detection: Building an End-to-End Memory Debugging Workflow Inside Android Studio",
+      "abstract": "Finding a memory leak is only the beginning. The difficult part is understanding why it happened, navigating from a heap trace back to source code, and deciding how to fix it.\r\n\r\nIn this session, I'll take you inside LeakLens, an open-source Android Studio/IntelliJ Platform plugin I built to create an end-to-end memory debugging workflow directly inside the IDE.\r\n\r\nWe'll follow the complete journey from an Android device to an actionable fix: discovering a debuggable process, capturing and transferring a heap dump through ADB, analyzing it with Shark, deobfuscating reference traces, and connecting leak information back to source code through IntelliJ PSI.\r\n\r\nWe'll then go beyond standard heap analysis and explore how LeakLens extends Shark with domain-specific inspectors for modern Android patterns including Jetpack Compose, coroutines, WorkManager, ViewModels and navigation, while UAST-based inspections provide complementary static analysis across Kotlin and Java.\r\n\r\nThe session will also cover the less visible engineering challenges of building IDE tooling: handling unreliable process discovery with ADB/JDWP fallbacks, running expensive heap analysis without blocking the IDE, managing large HPROF files, navigating across Android Studio API differences, and regression-testing heap analysis using golden files.\r\n\r\nFinally, we'll look at privacy-aware AI-assisted contextual remediation and how these pieces come together to create a detect, analyze, understand, fix workflow for Android memory problems.\r\n\r\nThe goal isn't to build another wrapper around LeakCanary or Shark. It's to explore how low-level Android debugging data can be transformed into an integrated developer workflow that reduces the distance between \"there is a leak\" and \"here is where I should fix it.\"",
+      "startTime": "2026-11-20T10:10:00+05:30",
+      "endTime": "2026-11-20T10:50:00+05:30",
+      "rooms": [
+        "Ballroom 3"
+      ],
+      "speakers": [
+        {
+          "id": "a80a8e00-0603-4fa5-b0b3-918a1144a69e",
+          "name": "Vikas Soni",
+          "headline": "Android Platform Engineer | Building Mobile Platforms, Not Just Apps",
+          "bio": "Vikas Soni is an Android Platform Engineer with 7+ years of experience building scalable mobile applications, SDKs, and developer platforms.\r\n\r\nHis work spans Android Architecture, Kotlin, Kotlin Multiplatform, mobile performance, AI-powered mobile experiences, and developer tooling. Over the years, he has helped build production applications used by millions of users while also focusing on reusable platform capabilities that improve engineering velocity and developer experience across teams.\r\n\r\nVikas is passionate about solving engineering challenges at scale through platform engineering, internal tooling, and shared infrastructure. He actively shares his learnings through technical writing, open-source projects, and community contributions focused on Android development, Kotlin Multiplatform, performance optimization, and emerging AI technologies.\r\n\r\nWhen not building apps, SDKs, or developer tools, he enjoys exploring new technologies, contributing to the Android community, and helping engineers build reliable, maintainable, and production-ready mobile systems.",
+          "photoUrl": "https://cdn.sessionize.com/image/462e-400o400o1-JwT8fmYR4YFWsXBcBacKjM.jpg"
+        }
+      ],
+      "tags": [
+        "Tooling",
+        "Android",
+        "Libraries",
+        "Android Studio",
+        "Open Source"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1310174",
+      "title": "Beyond Chatbots: Building Autonomous Android Agents with Google ADK",
+      "abstract": "In this session, we’ll build an 𝗮𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁 𝗳𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝘂𝘀𝗶𝗻𝗴 𝗚𝗼𝗼𝗴𝗹𝗲 𝗔𝗗𝗞 and Kotlin, and see how an agent can move from understanding user intent to selecting tools and executing a multi-step task.\r\n\r\nThe session will include a 𝗹𝗶𝘃𝗲 𝗲𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱 𝗱𝗲𝗺𝗼, showing the a𝗴𝗲𝗻𝘁 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗶𝗻𝘀𝗶𝗱𝗲 𝗮 𝗿𝗲𝗮𝗹 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 rather than just discussing agent architecture.\r\n\r\n𝗪𝗲’𝗹𝗹 𝗲𝘅𝗽𝗹𝗼𝗿𝗲:\r\n\r\n  • How to build an 𝗔𝗜 𝗮𝗴𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗚𝗼𝗼𝗴𝗹𝗲 𝗔𝗗𝗞 𝗮𝗻𝗱 𝗞𝗼𝘁𝗹𝗶𝗻\r\n  • How to expose Android capabilities as tools an agent can use\r\n  • How agents use context, reasoning, tool calling, and execution loops\r\n  • How an agent can complete a multi-step task autonomously\r\n  • How to design guardrails so the agent can act without giving up application control\r\n\r\nBy the end, developers will understand not only how to build an Android AI agent, but also how to think about the architecture required when Android applications become action oriented instead of purely UI-driven.",
+      "startTime": "2026-11-20T10:10:00+05:30",
+      "endTime": "2026-11-20T10:50:00+05:30",
+      "rooms": [
+        "Junior Ballroom"
+      ],
+      "speakers": [
+        {
+          "id": "c6d34db6-1562-4911-afbc-c229697f60f4",
+          "name": "Anand Gaur",
+          "headline": "Mobile Tech Lead, TCS",
+          "bio": "Anand Gaur is a Mobile Tech Lead at Tata Consultancy Services with 9+ years of experience building mobile applications across Android, iOS, Flutter, Kotlin Multiplatform (KMP), and React Native. His recent work focuses on integrating AI into mobile applications, developing AI-powered features, and helping developers adopt modern AI technologies in production.\r\n\r\nHe is an active contributor to the developer community, having authored 200+ technical articles on Medium with 5.7K+ followers. Anand regularly mentors developers, conducts mock interviews, provides career guidance, and speaks at community events and conferences.\r\n\r\nAnand is ranked among the top 0.1% of mentors globally on Topmate and received the Best Software IT Service Award 2025 for his contributions to the technology community.\r\n\r\nHe also leads a developer community of 3,300+ members focused on Mobile and AI, where he shares learning resources, job opportunities, and industry insights. Additionally, he is the author of six interview preparation and technical books covering Android, iOS, Flutter, React Native, Mobile System Design, and AI for Mobile Developers.",
+          "photoUrl": "https://cdn.sessionize.com/image/58bc-400o400o1-2MGJSrrs9PvXA4A8Bmyuy.png"
+        },
+        {
+          "id": "aa1ecf44-2eb9-49c2-bbd6-096d2a2528c0",
+          "name": "Yatin Batra",
+          "headline": "Agentic era SDE-II @Valeo Health ME",
+          "bio": "Android Engineer with a passion for building scalable, performant, and user-centric mobile applications. Experienced in developing production-grade Android apps, collaborating across product and engineering teams, and delivering features that impact thousands of users.\r\n",
+          "photoUrl": "https://cdn.sessionize.com/image/6f3e-400o400o1-NoRjywY6fca7KqAC5Zi4Vh.png"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1325308",
+      "title": "RAG on Android: What Actually Works On-Device?",
+      "abstract": "Building Retrieval-Augmented Generation (RAG) pipelines directly inside Android apps sounds like the ultimate privacy and offline-first solution. However, running local LLMs, embeddings, and vector databases on commercial mobile devices quickly runs into a wall of hard hardware constraints - including severe memory limits, high latency, aggressive battery draining, and data freshness challenges.\r\n\r\nInstead of showing polished marketing demos or cloud-centric architectures, this circle discussion is a reality check on native mobile AI. Let's talk about practical experiences regarding what happens when a local model like Gemma chokes device memory, how to handle vector searches without destroying the user experience, and where developers draw a strict line between on-device processing and cloud handoffs.",
+      "startTime": "2026-11-20T10:10:00+05:30",
+      "endTime": "2026-11-20T10:50:00+05:30",
+      "rooms": [
+        "unconference-roundtables"
+      ],
+      "speakers": [
+        {
+          "id": "4e935388-45f2-4445-8e66-9838dbf3ccd6",
+          "name": "Belal Khan",
+          "headline": "Google Developer Expert, Android | Senior Engineer, American Express | Simplifying Android, Empowering Developers",
+          "bio": "I’m a GDE with over a decade of experience building Android apps, and I've had the opportunity to speak at tech conferences and community events in India and internationally. I enjoy sharing what I learn through talks, open-source projects, and tutorials focused on Jetpack Compose and modern Android development.",
+          "photoUrl": "https://cdn.sessionize.com/image/1838-400o400o1-w3QcEJ4upfZu6gcK5EfeA4.jpg"
+        },
+        {
+          "id": "0037b354-6bd4-46e3-b1e6-d84916eea0d6",
+          "name": "Ayushi Gupta",
+          "headline": "GDE Firebase, Lead Mobile Engineer Equiti Trade Group",
+          "bio": "With my coding skills, I specialize in crafting diverse application solutions for Android mobile and TV platforms. My goal is to innovate and overcome any obstacles in our fast-paced, ever-evolving world.\r\nDriven by a passion for problem-solving, I eagerly accept challenges and strive to deliver impactful solutions. Let's connect and collaborate to find innovative solutions together",
+          "photoUrl": "https://cdn.sessionize.com/image/961b-400o400o1-wob3DCgQ1sgwMkZDHMnoNG.jpeg"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "level": "Intermediate",
+      "format": "Unconference Roundtable",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "f04c5fed-0b57-4f0e-9bfd-6e9aa6a9f226",
+      "title": "Break",
+      "abstract": "10:50 – 11:00 → 10 min",
+      "startTime": "2026-11-20T10:50:00+05:30",
+      "endTime": "2026-11-20T11:05:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": true
+    },
+    {
+      "id": "50d5c5d1-ae64-449f-8a7d-c487119ea604",
+      "title": "BlrDroid & BlrKotlin",
+      "abstract": "",
+      "startTime": "2026-11-20T11:00:00+05:30",
+      "endTime": "2026-11-20T12:00:00+05:30",
+      "rooms": [
+        "Community Booth"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "1323561",
+      "title": "Building the Future of Android: What's New in Android 17",
+      "abstract": "Discover the next era of Android development as the platform transitions into an intelligence system and embraces a multi-device ecosystem. This session explores the pivotal shift to \"Adaptive Everywhere\" as the default development paradigm in Android 17, moving beyond \"mobile-first\" to seamlessly support phones, foldables, desktops, and XR environments. Get an exclusive look at how agentic automation is empowering users to achieve more, alongside deep dives into performance leaps, strict new memory guidelines, and advanced developer tooling.",
+      "startTime": "2026-11-20T11:05:00+05:30",
+      "endTime": "2026-11-20T11:45:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [
+        {
+          "id": "ed97e311-c479-495a-b3c0-ebb044b622eb",
+          "name": "Niharika Arora",
+          "headline": "Senior Android Developer Relations Engineer, Google ",
+          "bio": "Niharika Arora is currently working as a Senior Android Developer Relations Engineer at Google and serves as the Chair of the FIDO India Working Group.\r\n\r\nShe focuses on enhancing the identity and authentication experience, making it safer and more seamless for Android users. Her previous work involves improving performance of top Android apps. \r\n\r\nPrior to joining Google, she was a Google Developer Expert for Android and was one of the key contributors to the Government of India’s contact tracing app, Aarogya Setu.\r\n\r\nNiharika holds a Bachelor of Technology in Computer Science from JCBOSE, YMCAUST, Faridabad, and was honored with the Chancellor’s Gold Medal by the Honorable State Governor. She has also been recognized as one of the 40 Under 40 Indian Achievers for her contributions towards the tech community.",
+          "photoUrl": "https://cdn.sessionize.com/image/0556-400o400o1-3qskEsBVVEQB1hy5oZN4t8.png"
+        }
+      ],
+      "tags": [
+        "Tooling",
+        "Android",
+        "Modern Android Development",
+        "Jetpack Compose",
+        "AI/ML"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1284195",
+      "title": "From Trace to Triage: Reading Perfetto, Then Automating It",
+      "abstract": "Every team has one person who is designated and actually have to read a Perfetto trace - a queue of everyone else waiting on them. This session fixes both halves of that problem.\r\nFirst we walk the senior-engineer mental model live on a real trace: is the main thread running or waiting, which frame missed its 16.6 ms deadline and was it the app or SurfaceFlinger, where cold-start time actually goes, and where binder/IPC contention hides. Then we do something new , we encode that exact checklist into an AI agent that runs PerfettoSQL against a trace programmatically, ranks hotspots, and maps slice names back to the functions in your codebase.\r\nThe result: you'll leave able to read a trace yourself, and able to hand that expertise to an agent so trace triage stops depending on one person. Whether you're chasing jank, slow cold starts, or ANRs, you'll have both the human method and a way to scale it across your team.",
+      "startTime": "2026-11-20T11:05:00+05:30",
+      "endTime": "2026-11-20T11:45:00+05:30",
+      "rooms": [
+        "Ballroom 2"
+      ],
+      "speakers": [
+        {
+          "id": "ed42f118-131f-4ff0-b644-43ba706b82e8",
+          "name": "Adit Lal",
+          "headline": "CTO | Founder| Android, Travv World",
+          "bio": "Adit is the CTO and Co-Founder of Travv World, a global travel platform revolutionizing personalized travel experiences. With over 12 years of experience in Android development and system architecture, Adit has played a key role in designing and scaling mobile platforms. Previously, he contributed significantly to the development of large-scale streaming applications at Viacom18. His expertise spans Kotlin Multiplatform, Jetpack Compose, and mobile performance optimization. In his free time, Adit enjoys stargazing, travel, and landscape photography.",
+          "photoUrl": "https://cdn.sessionize.com/image/d53b-400o400o1-18-131f-4ff0-b644-43ba706b82e8.8d1b0d00-5caa-48bb-889d-94e931646e3c.jpg"
+        },
+        {
+          "id": "f5c5d07c-9ec9-4533-b50f-0b03493041d1",
+          "name": "Rivu Chakraborty",
+          "headline": "Android & Kotlin GDE, Author, Speaker, Enterpreneur",
+          "bio": "Rivu Chakraborty is an Android GDE (Google Developer Expert) and India's first Kotlin GDE, a community person, & one of the early adopters of Kotlin. With overall 13+ years of experience, he is currently working at Sarvam AI, developing their native Mobile and Desktop apps.\r\nHe's also building FretPractice and Dhun by FretPractice, AI native Music practice and production platform.\r\n\r\nHe has previously worked with the biggest organisations from India and South-East-Asia, his last stint was working at JioHotstar / JioCinema (India's biggest OTT+Streaming platform) as Mobile Architect / Principal Engineer, he also previously worked at Meesho (a leading unicorn E-Commerce Startup from India), Gojek (one of South-East Asia's biggest startups), Paytm (India's biggest Fintech startup), and Byju's (one of India's biggest Edtech startup).\r\n\r\nHe has contributed to multiple Kotlin and Android Development books including authoring Reactive Programming in Kotlin, co-authoring Functional Kotlin the first-ever book to help Kotlin developers learn Functional Programming and use Arrow-kt in their projects, and co-authoring Hands-On Data Structures and Algorithms with Kotlin.\r\n\r\nHe has been using Kotlin since December 2015. Rivu formed KotlinKolkata User Group, the first active Kotlin User Group in India. Before he had to move out of Kolkata, he was organizing meetups and events for both KotlinKolkata and GDG Kolkata. Along with organizing community & events, he also speaks at events/conferences and local meetups.",
+          "photoUrl": "https://cdn.sessionize.com/image/2010-400o400o1-Q2ULgFkw2MRuYyUStkwaEr.png"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Testing",
+        "Libraries",
+        "Developer Productivity"
+      ],
+      "level": "Advanced",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1308044",
+      "title": "Screenshot Driven Development",
+      "abstract": "Screenshot tests are awesome. They catch regressions by yelling at you when a padding value changes unexpectedly, drifting from the pixel perfect layout you'd originally built.\r\n\r\nAt Square, we're doing a lot more with them: they've become our primary feedback loop for building UI. Instead of rebuilding the app and navigating to a screen to verify our layouts, we render them as screenshots and look directly at the generated images. By tightening our loop, we're able to experiment more.\r\n\r\nStatic screenshots have a gap though: anything that moves. We've been closing it with interactive screenshot tests that still run on the JVM: fake touch events drive the UI, and the whole interaction gets captured as a lossless APNG, so every frame is still diffable against a golden one. This turns out to matter a lot for AI coding agents that can now use the generated images as their own verification loop instead of awkwardly poking at an emulator.",
+      "startTime": "2026-11-20T11:05:00+05:30",
+      "endTime": "2026-11-20T11:45:00+05:30",
+      "rooms": [
+        "Ballroom 3"
+      ],
+      "speakers": [
+        {
+          "id": "79e52776-9156-4b6b-abbb-7a45e408635d",
+          "name": "Saket Narayan",
+          "headline": "Android developer",
+          "bio": "Android at Square. \r\n\r\nhttps://twitter.com/saketme\r\nhttps://bsky.app/profile/saket.me\r\nhttps://androiddev.social/@saket",
+          "photoUrl": "https://cdn.sessionize.com/image/4f87-400o400o1-arDcatck6CGUdHGsbxA4K7.jpeg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Design",
+        "Testing",
+        "AI/ML"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1306644",
+      "title": "Obfuscation in the AI Era: Making Android Code Harder for LLMs to Reverse Engineer",
+      "abstract": "You ship your Android app with R8 enabled. The class names are meaningless, the methods are renamed, and the code looks difficult to understand. Someone opens the APK in JADX, pastes the output into an AI model, and asks: “What does this code do?”\r\n\r\nHow much protection do those unreadable names actually provide?\r\n\r\nAI-assisted reverse engineering is challenging familiar assumptions about obfuscation. A model can infer purpose from operations, API calls, and relationships without knowing what you originally named a function. Protecting valuable logic now requires thinking beyond renaming.\r\n\r\nThrough simple visual examples and a synthetic banking-app experiment, this session explores ways to make that analysis more demanding. We’ll examine techniques that complicate reasoning, introduce misleading clues, and transform sensitive logic through bytecode virtualization.\r\n\r\nWe’ll also confront the practical questions: what survives a release build, what overhead does stronger protection introduce, and what happens when an analyst goes beyond a simple prompt?\r\n\r\nWhether you’re building your first Android app or protecting one at scale, you’ll leave with a clearer way to assess your defenses: the additional effort they require from an analyst equipped with AI.",
+      "startTime": "2026-11-20T11:05:00+05:30",
+      "endTime": "2026-11-20T11:45:00+05:30",
+      "rooms": [
+        "Junior Ballroom"
+      ],
+      "speakers": [
+        {
+          "id": "ae7b49b6-ed2d-45da-989d-5d253bd842a6",
+          "name": "Vigneshwaran Elangovan",
+          "headline": "Android Architect @ Protectt.ai ",
+          "bio": "Vignesh is an Android Architect at Protectt.ai, where he works on Android runtime protection (RASP), code obfuscation, bytecode virtualization, and device attestation for banking and fintech apps deployed at scale. He has a decade long background  in Android development, mobile architecture, and performance optimization, building and scaling consumer-facing applications for global enterprises including Tesco, DBS bank, BYJU'S, and NIUM. and writes about mobile security and AI at vickycodes.com.",
+          "photoUrl": "https://cdn.sessionize.com/image/aeef-400o400o1-KW1z4aBU7wKUk2NuiMgHaD.jpg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Design",
+        "Security",
+        "AI/ML"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1325311",
+      "title": "Terminal-First Android Today: CLI, Agents, and What’s Actually Worth Automating?",
+      "abstract": "Google’s Android CLI and AI agents promise three times faster workflows, but moving from the ideal to the practical is full of friction. Shifting away from heavy reliance on the traditional IDE frequently introduces major headaches with dependency management, CI/CD pipeline complexity, and over-engineered automation scripts that break under real-world conditions.\r\n\r\nInstead of watching polished workflow demos, this circle discussion is a reality check on modern automation. You should definitely come to discuss concrete experiences on which terminal-driven and agentic workflows actually save time, which ones create more maintenance overhead than they are worth, and where developers draw the line between command-line speed and IDE power.",
+      "startTime": "2026-11-20T11:05:00+05:30",
+      "endTime": "2026-11-20T11:45:00+05:30",
+      "rooms": [
+        "unconference-roundtables"
+      ],
+      "speakers": [
+        {
+          "id": "aa1ecf44-2eb9-49c2-bbd6-096d2a2528c0",
+          "name": "Yatin Batra",
+          "headline": "Agentic era SDE-II @Valeo Health ME",
+          "bio": "Android Engineer with a passion for building scalable, performant, and user-centric mobile applications. Experienced in developing production-grade Android apps, collaborating across product and engineering teams, and delivering features that impact thousands of users.\r\n",
+          "photoUrl": "https://cdn.sessionize.com/image/6f3e-400o400o1-NoRjywY6fca7KqAC5Zi4Vh.png"
+        }
+      ],
+      "tags": [],
+      "level": "Intermediate",
+      "format": "Unconference Roundtable",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "7f1cec74-61bb-48cf-9cb5-ee25708a354f",
+      "title": "Limited 1:1 slots. Bring your toughest challenges to the Android team. Lineup announced soon.",
+      "abstract": "",
+      "startTime": "2026-11-20T11:25:00+05:30",
+      "endTime": "2026-11-20T12:20:00+05:30",
+      "rooms": [
+        "Ask Google: 1:1 with the Android Team"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "6d7f51ca-3e65-453f-8fad-2acc303198e0",
+      "title": "Break",
+      "abstract": "11:40 – 11:50 → 10 min",
+      "startTime": "2026-11-20T11:45:00+05:30",
+      "endTime": "2026-11-20T12:00:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": true
+    },
+    {
+      "id": "1385637",
+      "title": "One Document, Many Ways to Engage: Acrobat’s Modes on Android",
+      "abstract": "Documents aren’t just read anymore. In this talk, we’ll show how Acrobat on Android supports multiple ways to consume a PDF: classic reading, voice-based listening through podcasts, Liquid Mode for a mobile-optimized view, and the new Student Spaces, where learners turn a document into flashcards and quizzes to engage with it more deeply.\r\nWe’ll then take a closer look at two ends of this journey, Liquid Mode, our first shipped model on reflowing documents for mobile, and Student Spaces, our latest, and share what we learned designing for different personas and reading intents.",
+      "startTime": "2026-11-20T12:00:00+05:30",
+      "endTime": "2026-11-20T12:20:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [
+        {
+          "id": "df1e1459-c343-4a70-96f9-4cb859221453",
+          "name": "Ankit Pangasa",
+          "headline": "Engineering Manager at Adobe Inc",
+          "bio": "Software engineer with 17+ years building the invisible systems behind document generation, cloud infrastructure, and data storage. ",
+          "photoUrl": "https://cdn.sessionize.com/image/82c1-400o400o1-MFy4iWXVkDskpMNCoK5k8J.jpg"
+        },
+        {
+          "id": "f42a610a-fafb-4fd7-9b1d-82a785ebc2fe",
+          "name": "Ashay Sinha",
+          "headline": "Senior Product Manager at Adobe Inc.",
+          "bio": "As a Senior Product Manager at Adobe, I am currently part of the Document Cloud team, involved in building innovative, AI-forward solutions that transform how the world interacts with and consumes digital documents.",
+          "photoUrl": "https://cdn.sessionize.com/image/088b-400o400o1-NFthN6eNu81NmM7jcPamNz.jpg"
+        },
+        {
+          "id": "1dd5fe7d-ba5c-406f-95a4-108d5cc1deb1",
+          "name": "Tushar Raina",
+          "headline": "Senior Software Developer",
+          "bio": "Tushar Raina is a Software Engineer with over 10 years of experience in Android application development. He specializes in building scalable, high-performance, and user-friendly mobile applications using Java and Kotlin. With a strong background in mobile technologies, he is passionate about solving complex technical challenges, optimizing application performance, and delivering seamless user experiences.",
+          "photoUrl": "https://cdn.sessionize.com/image/544e-400o400o1-DRwjNCpSC2AGKqMFHq79od.png"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Testing",
+        "AI/ML",
+        "On-device ML",
+        "GenAI Integration"
+      ],
+      "level": "Intermediate",
+      "format": "Lightning talk",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1322260",
+      "title": "Beyond Espresso: Natural-Language UI Testing with Journeys",
+      "abstract": "Stop fighting brittle UI locators and flaky IdlingResource boilerplate. This introductory session explores Journeys for Android Studio, showing how Gemini’s vision and reasoning capabilities execute functional test steps written in plain English.",
+      "startTime": "2026-11-20T12:00:00+05:30",
+      "endTime": "2026-11-20T12:20:00+05:30",
+      "rooms": [
+        "Ballroom 2"
+      ],
+      "speakers": [
+        {
+          "id": "36520f12-e401-427f-beda-b5c13dc1b58d",
+          "name": "Amrit Sanjeev",
+          "headline": "Staff Developer Advocate , Google ",
+          "bio": "Amrit Sanjeev is a Staff Developer Advocate at Google India and is a lead in the Android Developer Relations team. Previously, he held diverse roles (TLM, research engineer, lead architect) at Intuit, Philips Research, and IBM. Amrit was the first Android Google Developer Expert from India and also founded Blrdroid - an open Android developer community .\r\n",
+          "photoUrl": "https://cdn.sessionize.com/image/2c80-400o400o1-VhLceXK7idfGszHuEccHD8.png"
+        }
+      ],
+      "tags": [
+        "Testing"
+      ],
+      "level": "Intermediate",
+      "format": "Lightning talk",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1284751",
+      "title": "Android Process Death Forensics: What Survives When Your App Gets Killed",
+      "abstract": "Most Android apps save UI state, but very few can explain what happened after the process dies. SavedStateHandle can put the user back on a screen, but it does not tell you why the app died, what operation was interrupted, or whether the app should retry, recover, or ignore the previous session.\r\n\r\nThis session shows a practical postmortem pattern for Android process death. We will use SavedStateHandle for UI restoration, setProcessStateSummary as a tiny operation note, and ApplicationExitInfo as the death record read on next launch. Then we will compare that pattern against real device experiments: Recents swipe, am kill, SIGKILL, reboot, and lmkd memory pressure.\r\n\r\nWe will also connect this to Android 17 app memory limits, where some memory kills are reported as REASON_OTHER and the useful clue lives in ApplicationExitInfo.getDescription(). The goal is not to replace Crash analytics It is to add the domain-specific recovery state those tools cannot infer: what work died with the process, and what the app should do next.\r\n\r\nAttendees will leave with a small implementation pattern they can add to existing apps and crash-reporting pipelines.",
+      "startTime": "2026-11-20T12:00:00+05:30",
+      "endTime": "2026-11-20T12:20:00+05:30",
+      "rooms": [
+        "Ballroom 3"
+      ],
+      "speakers": [
+        {
+          "id": "a38ce6a8-a5b9-4406-8283-0c75ca4391a3",
+          "name": "Mahek Thaker",
+          "headline": "Senior Analyst Application Development - Cardinal Health",
+          "bio": "I’m Mahek Thaker, an Android developer at Cardinal Health with 5+ years of experience across healthcare, telecom, HR-tech, and product engineering teams. My work focuses on Kotlin, Jetpack Compose, SDKs, app stability, performance, and production Android architecture.\r\n\r\nMy roots in the Android custom ROM and XDA community. I’ve worked on Android device trees, custom ROM builds, and community tooling for devices like Lenovo A6000/Plus and ZUK Z2 Plus. That background still shapes how I approach Android today: verify platform behavior on real devices, read the source, and test assumptions instead of trusting folklore.",
+          "photoUrl": "https://cdn.sessionize.com/image/59d8-400o400o1-WfMJNMzAESxm1LfM6ZgawB.jpg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Crash Reporting & Monitoring",
+        "State Management"
+      ],
+      "level": "Intermediate",
+      "format": "Lightning talk",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1296665",
+      "title": "From Side Project to 1 Million Organic Downloads: Engineering Lessons from a Solo Android Developer",
+      "abstract": "Many Android apps never make it beyond a few thousand users. Some fail because of poor architecture, some because of unnecessary complexity, and many because they solve problems users simply don't have.\r\n\r\nOver the past few years, I built a Kannada language learning app as a side project that has grown close to 1 million organic downloads across 100+ countries. As a solo Android developer working full-time, every technical decision mattered—from architecture and feature prioritisation to performance optimisation, analytics, AI integration, monetisation, and long-term maintainability.\r\n\r\nThis talk isn't about marketing hacks or overnight success. It's a practical case study of the engineering decisions, mistakes, and trade-offs that shaped the product over several years.\r\n\r\nYou'll learn:\r\n\r\nHow to make technical decisions that support long-term product growth rather than short-term feature delivery.\r\nHow analytics and real user feedback can guide engineering priorities.\r\nHow to balance shipping features, reducing technical debt, and maintaining app quality as a solo developer.\r\nLessons learned from building, scaling, and maintaining a production Android app used by hundreds of thousands of learners.\r\nMistakes I would avoid if I were starting from scratch today.\r\n\r\nWhether you're building your first side project or maintaining a mature production app, you'll leave with practical ideas you can apply to your own Android applications.",
+      "startTime": "2026-11-20T12:00:00+05:30",
+      "endTime": "2026-11-20T12:20:00+05:30",
+      "rooms": [
+        "Junior Ballroom"
+      ],
+      "speakers": [
+        {
+          "id": "4c15fff2-48f8-4e38-878b-f44d21aa60e7",
+          "name": "Varun Anantha",
+          "headline": "Founder & Creator",
+          "bio": "Varun Anantha is an Android Engineer and the solo developer behind Learn Kannada SmartApp, a language learning application with close to 1 million organic downloads across 100+ countries. Alongside his full-time engineering role, he has spent the past several years designing, building, and maintaining the app—from architecture and AI-powered pronunciation features to analytics, performance optimisation, and monetisation.\r\n\r\nPassionate about creating products that solve real problems, Varun enjoys sharing practical engineering lessons drawn from building production applications with limited resources. He also teaches spoken Kannada through structured online courses, where he has helped learners from diverse backgrounds gain confidence in speaking the language.\r\n\r\nAt Droidcon India, he's excited to share the successes, failures, and engineering decisions that shaped his journey from side project to production app.",
+          "photoUrl": "https://cdn.sessionize.com/image/604e-400o400o1-DYSaSkiUN91tAyio3t3h4d.png"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Firebase",
+        "Career Growth & Mentorship"
+      ],
+      "level": "Introductory and overview",
+      "format": "Lightning talk",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1325378",
+      "title": "AI Agents That Write to Other Apps: Where Do You Put the Approval Gate?",
+      "abstract": "Most AI features stop at giving advice or summaries. The real friction begins when your agent needs to take action and write data to other apps like Calendar, Messages, or banking tools.\r\n\r\nAndroid developers are currently wrestling with how to handle these automated actions safely. Should you hand off writes using standard system intents, or execute them directly? How do you manage permission budgets without killing the user experience?\r\n\r\nIn this circle discussion, we skip the basic tutorials and share what actually works in production. We will trade real-world safety patterns, discuss what causes user friction, and debate where teams draw the line between on-device and cloud processing. Bring your agent integration war stories, permission headaches, and architectural nightmares. This is a practical pattern swap, not a lecture.",
+      "startTime": "2026-11-20T12:00:00+05:30",
+      "endTime": "2026-11-20T12:20:00+05:30",
+      "rooms": [
+        "unconference-roundtables"
+      ],
+      "speakers": [
+        {
+          "id": "4cdef22b-a4de-4ffa-87f4-c594eb55bf8b",
+          "name": "Mansi Tanna",
+          "headline": "Senior Software Engineer at Wurth IT India",
+          "bio": "Mansi Tanna is a Mobile Developer with over 5 years of experience building Android and iOS applications. She specializes in Kotlin, Jetpack Compose, Swift, and Kotlin Multiplatform, with a focus on creating performant, scalable mobile experiences. She enjoys exploring modern Android frameworks, sharing practical engineering insights, and learning how things work under the hood.",
+          "photoUrl": "https://cdn.sessionize.com/image/2c0e-400o400o1-Rq4BfFKFZngZs32tygWj5c.jpg"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "level": "Intermediate",
+      "format": "Unconference Roundtable",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "c81f369c-0939-42f1-9cad-746592a4e431",
+      "title": "Lunch",
+      "abstract": "12:30 – 13:30 → 60 min",
+      "startTime": "2026-11-20T12:20:00+05:30",
+      "endTime": "2026-11-20T13:20:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": true
+    },
+    {
+      "id": "03d0c1ab-e795-4f17-94ab-61c607f3559f",
+      "title": "DroidTribe",
+      "abstract": "",
+      "startTime": "2026-11-20T13:00:00+05:30",
+      "endTime": "2026-11-20T14:00:00+05:30",
+      "rooms": [
+        "Community Booth"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "10192100-ea78-45ca-8057-f66ebefdcdd0",
+      "title": "Rare 1:1 access to Google Android team. Debug, architect, unblock. Full roster coming soon.",
+      "abstract": "",
+      "startTime": "2026-11-20T13:20:00+05:30",
+      "endTime": "2026-11-20T15:20:00+05:30",
+      "rooms": [
+        "Ask Google: 1:1 with the Android Team"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "1299214",
+      "title": "Beyond Google Play: Inside Glance’s Journey of Building and Shipping Resilient SDKs for OEM Partners",
+      "abstract": "India alone has an estimated 600–650 million active Android smartphones. Behind many of these devices are Android SDKs built and shipped by OEMs and partner teams, powering experiences that need to work across different Android versions, build systems, app architectures, and release pipelines.\r\n\r\nBuilding an Android SDK for production is fundamentally different from building an Android application. Your consumers aren't end users—they're engineering teams integrating your SDK into applications that you don't own or control. Once an APK becomes an SDK, entirely new engineering challenges emerge.\r\n\r\nBefore writing a single line of SDK code, there are important architectural decisions to make. Should the SDK be modular or monolithic? How should public APIs evolve without breaking consumers? How do you design for backward compatibility, extensibility, and OEM-specific requirements while keeping integrations simple and reliable?\r\n\r\nIn this talk, we'll explore the system design principles behind production-grade Android SDKs and the engineering challenges that arise once they are shipped at scale. We'll discuss SDK architecture and modularization strategies, public API design, dependency graph analysis, native libraries, resource packaging, release pipelines, versioning strategies, and SDK size optimizations.\r\n\r\nWe'll also cover practical lessons learned while shipping Android SDKs to OEMs and partner applications—ranging from transitive dependency conflicts and build system incompatibilities to release management, SDK size constraints, and consumer app integration challenges that only surface once your SDK lands inside someone else's codebase.\r\n\r\nBy the end of the session, you'll have a practical framework for architecting Android SDKs that are scalable, extensible, and easier to integrate across diverse Android environments.\r\n\r\nIf you've ever wondered why your perfectly working APK suddenly breaks after becoming an SDK—or how to architect an Android SDK that survives years of integrations and releases—this talk is for you.",
+      "startTime": "2026-11-20T13:20:00+05:30",
+      "endTime": "2026-11-20T14:00:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [
+        {
+          "id": "f193f2f6-5983-466f-bc6b-edca07cba6e2",
+          "name": "Jai Goyal",
+          "headline": "Tech Lead - SDE-IV | Glance (InMobi Group)",
+          "bio": "This is Jai, Team Lead with 7 years of experience Android development. Expert in Core Android, On device AI and InMobi ad integrations. Leading apps with 200 million daily active users. Passionate about building scalable Android systems and seamless user experiences.",
+          "photoUrl": "https://cdn.sessionize.com/image/8e54-400o400o1-THUhsy382QLerxWEHEb1V3.png"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Libraries",
+        "Gradle",
+        "Developer Productivity"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1310144",
+      "title": "Beyond Prompts: Building the Context Layer for AI-Driven Feature Development at Blinkit",
+      "abstract": "What happens after the perfect prompt?\r\n\r\nAn agent can write good code, but shipping a change to a production Android app also needs product context, the contracts between layers, a check on a real device, and evidence a reviewer can trust.\r\n\r\nAt Blinkit, a feature rarely ends inside one Kotlin module. It can cross the Android client, server-driven UI, backend services, design tokens, analytics, and tests, spread across many repositories. Writing the Composable is the easy part. The hard part is helping the agent find everything that has to change, and showing that it hasn't broken a screen that already worked.\r\n\r\nIn this session we follow one feature from a Figma design to a verified change:\r\n\r\n• Understanding context: What context means for AI-driven development, why source code alone is insufficient and how product and engineering knowledge changes the quality of the agent’s decisions.\r\n\r\n• Why more context can make things worse: how tokens and the context window work, why a giant CLAUDE.md backfires, and what context engineering means in practice.\r\n\r\n• Finding the right context: How structured knowledge about screens, flows, endpoints and existing components is combined with code search, semantic retrieval and graph traversal through MCP.\r\n\r\n• From design to plan: breaking down a Figma design, finding the closest existing component, and deciding where the change belongs before any code is written.\r\n\r\n• Building across layers: one repeatable workflow that plans, makes the smallest change, runs the tests and checks the result on a device, including the screens that must not change.\r\n\r\n• Measuring it: the same question asked with and without the context layer, compared on time, cost, tokens and whether the answer was right.\r\n\r\nThis is not about an agent that magically understands the entire codebase. It is about reducing blind guesses, making review cycles smaller and giving the agent enough context to explain why each layer needs to change.\r\n\r\nBy the end, you’ll have a practical blueprint for building AI-driven features that can work on real products at scale.",
+      "startTime": "2026-11-20T13:20:00+05:30",
+      "endTime": "2026-11-20T14:00:00+05:30",
+      "rooms": [
+        "Ballroom 2"
+      ],
+      "speakers": [
+        {
+          "id": "c89a28d0-096a-4414-9a1d-728d46c3d9a4",
+          "name": "Karan Gourisaria",
+          "headline": "Android Platform Lead at Blinkit & Bistro",
+          "bio": "Karan Gourisaria leads the Android platform team at Blinkit and Bistro, where he builds tools and systems that make large-scale Android development faster, safer and more reliable. His work spans app performance, architecture, server-driven UI and AI-assisted engineering workflows. He also created Droid Dex, an open-source device intelligence library for building performance-aware Android apps.",
+          "photoUrl": "https://cdn.sessionize.com/image/faaf-400o400o1-73QpkB5qX9z4eiH55pGx24.jpg"
+        },
+        {
+          "id": "00aa0951-ce30-492a-b0d5-4760092a0644",
+          "name": "Aman Kumar",
+          "headline": "SDE II | Android Engineer | Blinkit",
+          "bio": "Aman is an Android engineer at Blinkit, working on consumer-facing Android experiences at scale. He is passionate about Android performance, memory optimization, Jetpack Compose, and building reliable mobile experiences for millions of users. He enjoys solving complex production engineering problems and turning them into practical lessons for the Android community.",
+          "photoUrl": "https://cdn.sessionize.com/image/32e6-400o400o1-f9M7sS8sbS2q1T9E3KYQ7q.jpg"
+        }
+      ],
+      "tags": [
+        "Tooling",
+        "Android",
+        "AI/ML",
+        "GenAI Integration",
+        "Developer Productivity"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1324561",
+      "title": "Understanding Android’s New App quality Requirements: Restore credentials, Memory and Performance",
+      "abstract": "App quality is entering a new era with Android's newly announced requirements. This comprehensive 40-minute session unpacks 3 critical pillars every developer needs to master to stay compliant and performant: Zero-Tap Migrations (Restore Credentials), App Memory Limits, and R8 Optimization.\r\n\r\n\r\n\r\nApp migration is a critical moment for user retention, and the manual \"setup tax\" is a major driver of user churn. We will explore the Restore Credentials API, which enables a seamless \"Zero-Tap\" sign-in experience when users transition to a new device. We will walk through the technical workflow of securely transferring restore keys using Android's backup infrastructure and outline the upcoming Play policies that mandate this frictionless experience.\r\n\r\nWe will then transition to performance and memory. With the industry facing hardware constraints, we'll cover the new performance thresholds for dynamic and bitmap memory usage designed to prevent system-wide slowdowns and background app kills. Finally, we will demystify the R8 Configuration of a codebase usingConfiguration Analyzer. Moving from guesswork to a data-driven workflow, you will learn how to audit your project, remove redundant -keep rules, and maximize code efficiency without risking obfuscation crashes.\r\n\r\nJoin us to ensure your app remains performant, compliant, and ready for the future of Android.\r\n\r\nComprehensive App Quality Overview: A unified look at the newly announced Google Play requirements impacting memory, performance, and user onboarding.\r\nCo-Presented Deep Dive: A 40-minute deep dive structured to cover the ecosystem changes : App Memory Limits and R8 optimization , and Restore Credentials.\r\nActionable Debugging: Live demonstrations of using R8 Configuration Analyzer and Backup and Restore emulation tools.",
+      "startTime": "2026-11-20T13:20:00+05:30",
+      "endTime": "2026-11-20T14:00:00+05:30",
+      "rooms": [
+        "Ballroom 3"
+      ],
+      "speakers": [
+        {
+          "id": "fa3231f1-52a8-4cef-a38c-e7877b690e4f",
+          "name": "Ajesh R Pai",
+          "headline": "Google - Developer Relations Engineer.",
+          "bio": "Ajesh R is a Developer Advocate at Google, specializing in Android performance tools like R8 and Baseline Profiles. With 9 years of experience developing high-quality Android applications at top tech companies, he is passionate about helping developers build faster and more efficient apps.",
+          "photoUrl": "https://cdn.sessionize.com/image/bc10-400o400o1-RiuAdryQM7jNYbWdWahDJE.jpg"
+        },
+        {
+          "id": "ed97e311-c479-495a-b3c0-ebb044b622eb",
+          "name": "Niharika Arora",
+          "headline": "Senior Android Developer Relations Engineer, Google ",
+          "bio": "Niharika Arora is currently working as a Senior Android Developer Relations Engineer at Google and serves as the Chair of the FIDO India Working Group.\r\n\r\nShe focuses on enhancing the identity and authentication experience, making it safer and more seamless for Android users. Her previous work involves improving performance of top Android apps. \r\n\r\nPrior to joining Google, she was a Google Developer Expert for Android and was one of the key contributors to the Government of India’s contact tracing app, Aarogya Setu.\r\n\r\nNiharika holds a Bachelor of Technology in Computer Science from JCBOSE, YMCAUST, Faridabad, and was honored with the Chancellor’s Gold Medal by the Honorable State Governor. She has also been recognized as one of the 40 Under 40 Indian Achievers for her contributions towards the tech community.",
+          "photoUrl": "https://cdn.sessionize.com/image/0556-400o400o1-3qskEsBVVEQB1hy5oZN4t8.png"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Modern Android Development",
+        "Developer Productivity"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1310225",
+      "title": "Bridge the Breakpoint Gap: Training Product Designers for Foldables, Postures, and Multi-Window UX",
+      "abstract": "For years, product designers have relied on static mockups built around standard mobile breakpoints. But the rise of foldables, tablets, and desktop windowing mode has broken fixed frame design forever. Designing for modern form factors is no longer about simply stretching a single-pane layout to fill a larger screen it requires shifting your entire design team's mindset from responsive pages to adaptive behaviors.\r\n\r\nIn this session, we will walk through a complete blueprint for bridging the gap between engineering and design. You will learn how to train your design team to think spatially, embrace hardware physicalities, and design system components that seamlessly react to physical postures and multi-window environments. We will cover:\r\n\r\nThe 5 Window Size Classes Every Designer Needs to Know: Moving past basic mobile/tablet breakpoints to master canonical layouts across Compact, Medium, Expanded, and emerging desktop/freeform window configurations.\r\n\r\nAdaptive Behaviors & Multi-Pane Layouts: Teaching designers when to transition from single-pane stacks to List-Detail, Feed-Detail, or Supporting Pane topologies, and how to specify adaptive navigation (Bottom Bar vs. Navigation Rail vs. Navigation Drawer).\r\n\r\nDesigning for Physical Postures & Hinge-Awareness: How to help designers account for physical device states such as Tabletop, Book, and Flex modes and design layouts that actively respect physical hinge occlusions and display seams.\r\n\r\nWhy You Must Adapt NOW: Demystifying upcoming platform shifts including system-level Taskbar Bubbles, Freeform Desktop Windowing, and Cross-Device Handoff APIs showing your team why rigid single-window designs will feel broken on modern devices.\r\n\r\nWhether you're a design system lead, lead engineer, or product architect, you'll leave with practical frameworks, vocabulary, and Figma-to-Code mapping strategies to get your design team building truly adaptive user experiences.",
+      "startTime": "2026-11-20T13:20:00+05:30",
+      "endTime": "2026-11-20T14:00:00+05:30",
+      "rooms": [
+        "Junior Ballroom"
+      ],
+      "speakers": [
+        {
+          "id": "376ce85a-714a-4bfc-a609-8d98334c0180",
+          "name": "Dinoy Raj",
+          "headline": "Product Engineer – Android @ Strollby | Droidcon Uganda ’25 & Droidcon Abu Dhabi 25 Speaker",
+          "bio": "Dinoy Raj is a Product Engineer and Android specialist with a deep focus on building scalable, high-performance mobile experiences using Kotlin and Jetpack Compose. Currently at Strollby, he architects multi-module B2B and B2C travel applications, specializing in unified design systems and complex booking infrastructures.\r\n\r\nRecognized as one of the most active speakers of 2025 on Sessionize ranking in the top 3% of 71,000+ speakers globally Dinoy is a frequent face at international conferences. He has shared his expertise on On-Device AI, custom launchers, and modern Android architecture at Droidcon Abu Dhabi ’25, Droidcon Uganda '25, DevFest Dubai ’25, DevFest Mumbai ’25. Dinoy will be also  Speaking at FOSSASIA 2026.\r\n\r\nA pioneer in the mobile AI space, Dinoy has successfully integrated On-Device AI into production apps, leveraging Google Gemini Nano and the Prompt API to create \"Smart Search\" features and \"Generative UI\" frameworks. He is also the creator of Simple Launcher: Minimalist.\r\n\r\n\r\n",
+          "photoUrl": "https://cdn.sessionize.com/image/cdb9-400o400o1-RoJxgmXxnyAcZCWd9zh33g.jpg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Design",
+        "UI/UX",
+        "Jetpack Compose",
+        "Foldables",
+        "Tablets"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1325373",
+      "title": "WorkManager Today: Why Did Your Background Job Actually Stop?",
+      "abstract": "Everyone uses WorkManager for background tasks, but jobs still vanish silently in production. Android developers constantly battle Chinese OEM battery optimizations, constraint conflicts, scheduler confusion, and reboot edge cases that the documentation never prepares you for.\r\n\r\nInstead of walking through the internal source code, this circle discussion is a real-world troubleshooting swap. Let's talk about some of our experiences with what actually breaks when your app hits the wild, how to handle aggressive force-stop behaviors, and how to manage threading bottlenecks without killing device performance.",
+      "startTime": "2026-11-20T13:20:00+05:30",
+      "endTime": "2026-11-20T14:00:00+05:30",
+      "rooms": [
+        "unconference-roundtables"
+      ],
+      "speakers": [
+        {
+          "id": "6ec129ad-b124-4900-aec3-607f438d027d",
+          "name": "Sagar Malhotra",
+          "headline": "Android Developer · Content Creator · Community Organiser",
+          "bio": "Sagar Malhotra is an Android developer, educator, and content creator with a focus on the internals of the Compose and Android framework. On his YouTube channel he publishes deep-dive breakdowns for a community of 4k+ developers, walking through AndroidX source code to explain how Android actually behaves beneath the API surface, from low-level apis to the dev tools and best architectural practices.\r\n\r\nHe is a founder and organiser of the D4 Community, an inclusive group for developers, where he organises and speaks at events on modern Software development. He also contributes to some well-known open-source Android projects(Signal-android) and is an active voice in developer forums and technical blogs.\r\n\r\nSagar's goal on stage is to make advanced Android topics genuinely approachable: fewer buzzwords, more real source code, and a mental model the audience can apply the next day.",
+          "photoUrl": "https://cdn.sessionize.com/image/c31b-400o400o1-RGwdLUycm7yV7vnhCmfp7f.jpg"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "level": "Intermediate",
+      "format": "Unconference Roundtable",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "87cb7477-55b8-4816-8dd4-7aa8ee987eac",
+      "title": "Break",
+      "abstract": "14:40 – 14:50 → 10 min",
+      "startTime": "2026-11-20T14:00:00+05:30",
+      "endTime": "2026-11-20T14:15:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": true
+    },
+    {
+      "id": "c0a083af-7bf2-4845-8659-2a0fcb2f8918",
+      "title": "KUG Chennai & GDG Chennai",
+      "abstract": "",
+      "startTime": "2026-11-20T14:00:00+05:30",
+      "endTime": "2026-11-20T15:00:00+05:30",
+      "rooms": [
+        "Community Booth"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "1309991",
+      "title": "NFC in Modern Android: Building Cross-Platform Experiences with Jetpack Compose & KMP",
+      "abstract": "NFC can turn an ordinary Android interaction into a simple “tap and go” experience—but building NFC-powered applications that are maintainable, testable, and ready for modern Android architecture is a different challenge.\r\n\r\nIn this session, we will build an NFC-driven Android experience using Jetpack Compose and Kotlin Multiplatform (KMP), exploring how platform-specific NFC capabilities can be cleanly separated from shared application logic.\r\n\r\nAttendees will learn how to move beyond basic NFC tag reading and design an architecture that can support real-world NFC products and experiences.\r\n\r\nWe will cover:\r\n\r\n1. How Android's NFC stack works and how to integrate it cleanly with a Compose application\r\n2. Designing an NFC abstraction that keeps platform-specific code isolated using KMP\r\n3. Managing NFC state, lifecycle, permissions, and asynchronous events in a Compose-first architecture\r\n4. Designing reliable NFC flows for reading, writing, validation, and error handling\r\n5. Testing and structuring NFC functionality so that the application remains maintainable as it grows\r\n\r\nThe goal is to leave attendees with a practical architecture they can adapt to their own NFC-enabled Android and KMP projects.",
+      "startTime": "2026-11-20T14:15:00+05:30",
+      "endTime": "2026-11-20T14:55:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [
+        {
+          "id": "8b285b06-1f50-469a-99f4-be185b0d63db",
+          "name": "Prakhar Gandhi",
+          "headline": "Lead AI Engineer @ Tiger Analytics | Google Developer Educator (Compose & KMP)",
+          "bio": "Prakhar Gandhi is a Lead AI Engineer at Tiger Analytics and a Google Developer Educator specializing in Jetpack Compose and Kotlin Multiplatform. A prolific builder with deep roots in modern mobile architecture and production AI systems, he bridges cutting-edge machine learning with scalable, cross-platform client applications. His work spans intelligent systems, hardware integrations using NFC tech, and early-stage product engineering with Heyum. Outside the terminal, Prakhar hosts The Broadcast Bros podcast, dissecting technology, product development, and engineering culture. He regularly shares practical, real-world patterns to help developers build fast, resilient, and intelligent cross-platform apps.",
+          "photoUrl": "https://cdn.sessionize.com/image/9e1c-400o400o1-N6eyd8xJ7nMrz7vFp289d9.png"
+        },
+        {
+          "id": "4e935388-45f2-4445-8e66-9838dbf3ccd6",
+          "name": "Belal Khan",
+          "headline": "Google Developer Expert, Android | Senior Engineer, American Express | Simplifying Android, Empowering Developers",
+          "bio": "I’m a GDE with over a decade of experience building Android apps, and I've had the opportunity to speak at tech conferences and community events in India and internationally. I enjoy sharing what I learn through talks, open-source projects, and tutorials focused on Jetpack Compose and modern Android development.",
+          "photoUrl": "https://cdn.sessionize.com/image/1838-400o400o1-w3QcEJ4upfZu6gcK5EfeA4.jpg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Kotlin",
+        "Design",
+        "Coroutines",
+        "UI/UX",
+        "Modularization",
+        "Modern Android Development",
+        "Jetpack Compose",
+        "Compose Multiplatform",
+        "Android Studio",
+        "KMP",
+        "Kotlin Multiplatform",
+        "Developer Productivity"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1322257",
+      "title": "Running Small Language Models (SLMs) On-Device",
+      "abstract": "When off-the-shelf system models aren’t tailored enough, bringing custom open-weight models (like Gemma) to the device is the answer. This talk dives into optimizing, quantizing, and executing custom open models directly on mobile GPUs and NPUs.\r\n",
+      "startTime": "2026-11-20T14:15:00+05:30",
+      "endTime": "2026-11-20T14:55:00+05:30",
+      "rooms": [
+        "Ballroom 2"
+      ],
+      "speakers": [
+        {
+          "id": "36520f12-e401-427f-beda-b5c13dc1b58d",
+          "name": "Amrit Sanjeev",
+          "headline": "Staff Developer Advocate , Google ",
+          "bio": "Amrit Sanjeev is a Staff Developer Advocate at Google India and is a lead in the Android Developer Relations team. Previously, he held diverse roles (TLM, research engineer, lead architect) at Intuit, Philips Research, and IBM. Amrit was the first Android Google Developer Expert from India and also founded Blrdroid - an open Android developer community .\r\n",
+          "photoUrl": "https://cdn.sessionize.com/image/2c80-400o400o1-VhLceXK7idfGszHuEccHD8.png"
+        },
+        {
+          "id": "3a0485c1-7706-440f-a6c6-64ae0096c56e",
+          "name": "Nataraj K R",
+          "headline": "Making life better one app at a time",
+          "bio": "~10 years of experience in Android development. Currently focussed on modern telecom integrations, and on-device AI. I collaborate closely with global partner engineering teams to build performant, seamless, and high-quality experiences across the Android ecosystem.",
+          "photoUrl": "https://cdn.sessionize.com/image/f5a8-400o400o1-MATF4qpYzGFEm1jgSJzwsy.png"
+        }
+      ],
+      "tags": [
+        "On-device ML"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1309501",
+      "title": "Giving Agents Eyes on Production: Automating the Debugging Loop",
+      "abstract": "What would it take for an agent to actually debug a production Android bug?\r\n\r\nWe’ll start with the engineering foundations: structured events, queryable production data, automated instrumentation, and a unified view of product and system telemetry. You’ll also see how newer Android APIs can capture rich Perfetto traces and heap dumps directly from production.\r\n\r\nThen we’ll put agents to work at increasing levels of autonomy: investigating an issue, proposing a fix, implementing it, validating the result and finding gaps in telemetry to improve what it can see in production. We’ll see real workflows, including the failures and limitations we encountered along the way.\r\n\r\nYou’ll leave with practical patterns for:\r\n- Giving agents enough production context and evidence to investigate real bugs.\r\n- Using production data as a feedback loop to improve instrumentation.\r\n- Designing agent workflows that can take action safely on production issues.\r\n- Moving from agent-assisted investigation toward automated bug fixing.\r\n- Knowing where automation works well and where human judgment still matters.",
+      "startTime": "2026-11-20T14:15:00+05:30",
+      "endTime": "2026-11-20T14:55:00+05:30",
+      "rooms": [
+        "Ballroom 3"
+      ],
+      "speakers": [
+        {
+          "id": "4b9551d4-18db-45e7-beaa-32ff55abe677",
+          "name": "Abhay Sood",
+          "headline": "Co-founder at measure.sh",
+          "bio": "Abhay is the co-founder of Measure, where he is building a new observability tool for mobile developers. He has built Android apps since 2011, and prior to Measure, he was a Principal Engineer at Gojek.",
+          "photoUrl": "https://cdn.sessionize.com/image/5934-400o400o1-T3SXfnqLNZH96kZNRRZC5y.jpg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "AI/ML",
+        "Open Source"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "8bbf9fab-5fce-4939-84d1-5147ab832cda",
+      "title": "Coming Soon!",
+      "abstract": "",
+      "startTime": "2026-11-20T14:15:00+05:30",
+      "endTime": "2026-11-20T14:55:00+05:30",
+      "rooms": [
+        "Junior Ballroom"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "1308737",
+      "title": "Your Codebase Wasn't Built for AI. Now What?",
+      "abstract": "AI coding tools look impressive when they start with a blank project.\r\n\r\nBut most developers do not work with blank projects.\r\n\r\nWe work with years-old codebases, undocumented decisions, mixed architectures, custom conventions, technical debt and systems where one seemingly simple change can affect ten other things.\r\nWhat are specifics that a mobile applications specialist should know?\r\n\r\nSo how do we actually make AI useful in this environment?\r\n\r\nThis roundtable brings Android developers together to discuss how AI is changing everyday software development — from developers using AI for the first time to teams trying to integrate AI deeply into mature codebases.\r\n\r\nWe will explore questions such as:\r\n\r\n•⁠  ⁠How does AI behave differently in a fresh project vs a large legacy codebase?\r\n•⁠  ⁠How much context does an AI agent need to understand your project? \r\n•⁠  ⁠What does good context engineering look like? How would it change for a mobile apps landscape?\r\n•⁠  ⁠Should teams maintain rules, architecture documents, examples, prompts, or agent instructions?\r\n•⁠  ⁠How do we evaluate whether AI-generated changes are actually correct?\r\n•⁠  ⁠How do developers avoid blindly accepting plausible-looking \r\n•⁠  ⁠How to keep up with rapidly changing Android and iOS apps and best practices for an AI enabled team?\r\n•⁠  ⁠What workflows are teams already using successfully?\r\n\r\nWe will moderate the conversation, introduce discussion prompts, share some of our own experiences, and then bring the room into the discussion.\r\n",
+      "startTime": "2026-11-20T14:15:00+05:30",
+      "endTime": "2026-11-20T14:55:00+05:30",
+      "rooms": [
+        "unconference-roundtables"
+      ],
+      "speakers": [
+        {
+          "id": "05b35d81-ad2a-46dd-bd86-8a0302e1ae94",
+          "name": "Gaurav Thakkar",
+          "headline": "Ex - Senior Android at BookMyShow ",
+          "bio": "Building mobile experiences that users return for and relate, while ensuring they follow the best industry practices for the last 5 years",
+          "photoUrl": "https://cdn.sessionize.com/image/cac4-400o400o1-a7Ptmrtm6wbqBtJGqtQpTC.jpg"
+        },
+        {
+          "id": "0bf37e75-2670-4ab2-9df3-1b7952bd094a",
+          "name": "Rajesh Hadiya",
+          "headline": "Senior Software Engineer | Educator | Speaker",
+          "bio": "I’m a Senior Software Engineer with 8+ years of experience building mobile products.\r\n\r\nI’ve trained 1,000+ developers through courses and mentorship, and I co-founded DroidTribe to bring developers together through meetups and community initiatives.\r\n\r\nI also speak at tech events and share practical lessons from real-world software engineering.",
+          "photoUrl": "https://cdn.sessionize.com/image/a29d-400o400o1-WbD5CftLooc3ydkpFAoSfk.jpg"
+        }
+      ],
+      "tags": [],
+      "level": "Intermediate",
+      "format": "Unconference Roundtable",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "69c6a495-69fe-446b-939c-8bd73fd4f3e3",
+      "title": "Break",
+      "abstract": "13:50 – 14:00 → 10 min",
+      "startTime": "2026-11-20T14:55:00+05:30",
+      "endTime": "2026-11-20T15:10:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": true
+    },
+    {
+      "id": "2ca9d6f0-99ab-41f2-95b1-b7e47ed11566",
+      "title": "AI Mobile Coders & Android Engineers",
+      "abstract": "",
+      "startTime": "2026-11-20T15:00:00+05:30",
+      "endTime": "2026-11-20T16:00:00+05:30",
+      "rooms": [
+        "Community Booth"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "1304448",
+      "title": "From Vitals Alert to Root Cause: Debugging Android Regressions with AI",
+      "abstract": "Play Console tells you when a vital gets worse. It doesn't tell you which change caused it. Finding the root cause still means capturing traces, reading flame graphs and searching release diffs by hand. That's slow, it's hard for most Android developers, and it's easy to get wrong.\r\n\r\nAI agents can make this loop much faster, but only if they work with the right tools and are held to evidence. In this talk, we share how we built that setup for a large Android app, and what we learned from using it on real startup, jank, crash and ANR regressions.\r\n\r\nYou will learn:\r\n\r\n• How to go from a Play Console vital to a root cause: metrics, traces, code changes and validation.\r\n• How to give an agent skills and MCP tools to read Perfetto traces, production metrics and crash reports.\r\n• Why the agent is often wrong, and the simple checks that catch it before it costs you a day.\r\n• How to prove a fix with Macrobenchmark and production experiments.\r\n\r\nNo performance expertise needed. You'll leave with a practical blueprint for building your own AI-assisted performance workflow: start with one skill, one tool and one evidence rule.",
+      "startTime": "2026-11-20T15:10:00+05:30",
+      "endTime": "2026-11-20T15:50:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [
+        {
+          "id": "eee66265-150a-46ae-8ca4-4fc2d14460f1",
+          "name": "Arun Sharma",
+          "headline": "Staff Engineer at Swiggy",
+          "bio": "Arun Sharma leads the Instamart Apps team at Swiggy, focusing on platform performance and developer tooling for consumer-facing apps at scale. He has built tools and systems—including Swiggy Perf Kit, Perfetto trace analysis, JankStats, and Macrobenchmarking—that make Android apps faster, more reliable, and easier to debug across app shells and device classes. He is passionate about practical engineering, strong developer workflows, and building a lasting performance culture.",
+          "photoUrl": "https://cdn.sessionize.com/image/c492-400o400o1-LCHxbaD5w12aet1pPfsRsc.jpg"
+        }
+      ],
+      "tags": [
+        "Tooling",
+        "Android",
+        "Modern Android Development",
+        "AI/ML"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1294482",
+      "title": "AGP, KGP, and Gradle to the Future",
+      "abstract": "2026 is a big year for the Android build ecosystem. We've all been frustrated by how the Android build system has worked — bugs, memory leaks, DSL magic, and various workarounds that both official and OSS tools end up doing just to make the system compile. It all works on the surface, but small changes to these systems become a big problem, which leads us to the \"don't touch it if it works\" model. That doesn't work anymore.\r\nThis talk goes through legacy AGP/KGP features that are still enabled by default, why that's the case, and how we should be changing things here — plus how to stay forward compatible without turning features on before they're ready for us. \r\n\r\nFrom there we get into the new Gradle features and how they fix some of the old painful sins: Configuration Cache and why it's taken two years to get close to becoming default, Project Isolation and whether it actually works better than Configuration Cache, the Foojay toolchain resolver and why we should always be updating the JVM we build with, and the Gradle Errors API.\r\n\r\nOn the Android side: the changes in the DSL, KMP getting integrated directly into the AGP plugin, build types being removed from KMP, and what gets removed in AGP 10 versus just deprecated in AGP 9. \r\n\r\nOn the Kotlin side: the Build Tools API, backward/forward compatibility layers, annotations support in Kotlin metadata, and K2 kapt. I will also cover other new exciting things to look forward to in Kotlin. \r\n\r\nLastly, long standing open issues on Gradle, Kotlin and AGP — which ones eventually get fixed, how to work around the ones that don't, and why \"wontfix\" is really an anti-pattern we should be pushing back on.",
+      "startTime": "2026-11-20T15:10:00+05:30",
+      "endTime": "2026-11-20T15:50:00+05:30",
+      "rooms": [
+        "Ballroom 2"
+      ],
+      "speakers": [
+        {
+          "id": "52d4eef3-c7e3-43db-9c5e-e32ba0f5b789",
+          "name": "Satyarth Sampath",
+          "headline": "Staff Engineer Android @ PhonePe",
+          "bio": "Satyarth works as a Senior Android Engineer at PhonePe where he works on Application performance and it's tooling. He previous worked at Gojek where he led the Android DevX team with the mission of improving developer productivity by identifying and eliminating bottlenecks in their workflow. He spends the day exploring Android design patterns along and pairs with developers on building robust android applications. He then spends the night with Android Build system in an attempt to extract the last build performance benifit that he can. Before this he lead Android Platform team which was responsible for building the base framework for the Android Applications at Go-Jek. He has spent the last 10 years building Android Apps and was enlightened when he was exposed to Kotlin.",
+          "photoUrl": "https://cdn.sessionize.com/image/1e23-400o400o1-f3-c7e3-43db-9c5e-e32ba0f5b789.d913f652-4109-432c-81ba-c5928b3364cf.jpeg"
+        },
+        {
+          "id": "f2a0e0ce-6742-4001-859a-bb84f642609f",
+          "name": "Vishrut Goyal",
+          "headline": "Software Engineer @ Phonepe",
+          "bio": "Android engineer transitioning from building feature-rich, user-facing applications to engineering core developer platforms. Currently scaling build systems, optimizing Gradle, and charging CI/CD efficiency for engineering teams at PhonePe.",
+          "photoUrl": "https://cdn.sessionize.com/image/3dd7-400o400o1-3JyQphPSp3nf85XfE2GZU8.jpg"
+        }
+      ],
+      "tags": [
+        "Tooling",
+        "CI/CD",
+        "Android"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1310012",
+      "title": "Swapping Engines Mid-Flight: Engineering an HTTP/3 Migration on Android",
+      "abstract": "HTTP3 promises faster, more resilient networking but introducing it into an existing Android application is less about flipping a switch and more about changing the engine while the plane is already flying.\r\nIn this session, we'll walk through the engineering journey of migrating an existing Android networking stack from OkHttp to Cronet, enabling HTTP3/QUIC while minimizing changes to the application layer.\r\nFocus points of talk will be\r\n- Deep dive in protocol details of HTTP3 and HTTP2, discussing advantages and tradeoffs.\r\n- Introduction to Cronet which enables HTTP3 on Android.\r\n- Bridging Cronet to OkHttp by refactoring Interceptors, Authenticator and Cache layer, while keeping OkHttp as fallback.\r\n- Rollout strategy of HTTP3 across all platforms (Android, iOS, Web)\r\n- Measuring connection and request level metrics to understand improvements.\r\nAttendees will leave with a practical mental model for HTTP/3 and a migration playbook they can apply to their own Android applications.",
+      "startTime": "2026-11-20T15:10:00+05:30",
+      "endTime": "2026-11-20T15:50:00+05:30",
+      "rooms": [
+        "Ballroom 3"
+      ],
+      "speakers": [
+        {
+          "id": "a7da8c70-c13b-4ad5-aa0a-ddb502e5eed6",
+          "name": "Jitin Sharma",
+          "headline": "Senior Software Architect, Groww",
+          "bio": "Jitin works as an Architect at Groww, India. He previously worked on Design Systems at Gojek and airline applications at Amadeus. He is an international speaker, technical writer and community organiser for Android.",
+          "photoUrl": "https://cdn.sessionize.com/image/39ef-400o400o1-pZrx5e84tiQ7mXeWemVqAD.jpeg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "API"
+      ],
+      "level": "Advanced",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1327421",
+      "title": "Building reliable text editing experiences in Compose",
+      "abstract": "Building rich text editors in Jetpack Compose used to be a headache. This session explores the new buffer-driven architecture of BasicTextField (BTF2) for a cleaner, modern approach. By leveraging new capabilities like TrackedRange and Expand Policies, we can eliminate historical headaches like range-drift and boundary bugs. We'll provide a complete blueprint for leaving legacy hacks behind and mastering rich text in modern Compose.\r\n\r\nYou will learn to:\r\n- Fix sync bugs using TextFieldState to eliminate keyboard (IME) race conditions.\r\n- Apply durable, adaptive formatting with TextFieldBuffer.addStyle.",
+      "startTime": "2026-11-20T15:10:00+05:30",
+      "endTime": "2026-11-20T15:50:00+05:30",
+      "rooms": [
+        "Junior Ballroom"
+      ],
+      "speakers": [
+        {
+          "id": "9ae61891-0179-46c1-b6ad-d37bee832f1a",
+          "name": "Srikrishna Sakunia",
+          "headline": "Developer Relation Engineer @ Google",
+          "bio": "Developer Relation Engineer at Google",
+          "photoUrl": "https://cdn.sessionize.com/image/e001-400o400o1-9nQPbDTmWYfxuV9sJA22GM.jpg"
+        }
+      ],
+      "tags": [],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "393b6d60-46b8-4309-8d40-dbd4ea15d412",
+      "title": "Coming Soon!",
+      "abstract": "",
+      "startTime": "2026-11-20T15:10:00+05:30",
+      "endTime": "2026-11-20T15:50:00+05:30",
+      "rooms": [
+        "unconference-roundtables"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "bad7e532-7d91-4d04-843d-050acb27fd88",
+      "title": "Break",
+      "abstract": "15:30 – 15:45 → 15 min",
+      "startTime": "2026-11-20T15:50:00+05:30",
+      "endTime": "2026-11-20T16:05:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": true
+    },
+    {
+      "id": "cd7cbab4-df3b-4942-92cf-f64647a7c3e5",
+      "title": "GDG Cochin & GDG Coimbatore",
+      "abstract": "",
+      "startTime": "2026-11-20T16:00:00+05:30",
+      "endTime": "2026-11-20T17:00:00+05:30",
+      "rooms": [
+        "Community Booth"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "bb5734d8-88c7-4309-8004-7fc2a2206d1a",
+      "title": "Ask Android. Walk up with questions, walk out with answers. Expert lineup announced shortly.",
+      "abstract": "",
+      "startTime": "2026-11-20T16:05:00+05:30",
+      "endTime": "2026-11-20T17:40:00+05:30",
+      "rooms": [
+        "Ask Google: 1:1 with the Android Team"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": false
+    },
+    {
+      "id": "1306065",
+      "title": "MCP Servers on Android: Turn Any App into an AI Agent Tool",
+      "abstract": "AI agents are only as powerful as the tools they can call. On desktop, MCP (Model Context Protocol) lets AI assistants interact with local apps, reading files, querying databases, and sending messages. But on Android? There's no standard way for an AI agent to discover and call tools from other installed apps on the same device.\r\n\r\n This session introduces a lightweight approach to building on-device MCP servers inside Android apps using HTTP semantics over Binder IPC. No internet. No cloud APIs. No exposed network ports. Just fast, secure, inter-app communication that lets any AI\r\n  assistant discover your app's capabilities and invoke them — all without data ever leaving the device.\r\nI'll live-code an MCP server that exposes tools (like searching contacts or sending messages) as a bound Android Service, and show how an AI agent app can discover, connect, and call those tools at runtime, the same way it would call a cloud MCP server, but entirely on-device.",
+      "startTime": "2026-11-20T16:05:00+05:30",
+      "endTime": "2026-11-20T16:25:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [
+        {
+          "id": "c2c734a7-9212-493c-bf92-88c31da8b267",
+          "name": "Arun Kumar",
+          "headline": "Senior Android Engineer at Mercedes-Benz",
+          "bio": "I'm an Android Framework & Platform Engineer with 5.6 years of experience, currently at Mercedes-Benz Research & Development India — the largest R&D centre for the Mercedes-Benz Group AG outside Germany. I work on the infotainment platform and productivity apps (calendar, meetings, email) with deep expertise in AOSP, AIDL, Binder IPC, HAL, and system service development. On the side, I build independent hardware-to-UI projects on Raspberry Pi 5 and share everything I learn through technical articles on Medium (1M+ reads) and my YouTube channel Silicon to System. I have 18k+ followers on LinkedIn and believe in learning in public.",
+          "photoUrl": "https://cdn.sessionize.com/image/ebf2-400o400o1-DydGHD3WLGVQK44Yt1muHZ.png"
+        },
+        {
+          "id": "e474f26b-0c91-4062-b374-7fb5bf9d0c5d",
+          "name": "Arvind Kumar Vartiya",
+          "headline": "AI Engineer | Agent Architect | IIT Kanpur",
+          "bio": "I'm a Computer Scientist and AI Engineer passionate about building intelligent systems that solve real-world problems. An IIT Kanpur alumnus, I specialize in Generative AI, Large Language Models, Agentic AI, and intelligent automation.\r\n\r\nCurrently, I work as a Forward Deployed Engineer (FDE), contributing to AI vision and agent architecture for Signature Aviation, one of the world's largest Fixed Base Operator (FBO) networks. My work involves designing and building intelligent, multi-agent systems that bring AI capabilities into complex, real-world aviation workflows.\r\n\r\nMy experience spans AI-powered voice and WhatsApp agents, multi-agent architectures, RAG systems, and real-time conversational AI. I work across technologies including LLMs, STT/TTS, LangGraph, MCP, and cloud AI platforms.\r\n\r\nI'm particularly interested in the intersection of AI research and engineering — transforming emerging AI capabilities into reliable, scalable, production-ready systems that can reason, interact, and take meaningful actions in the real world.",
+          "photoUrl": "https://cdn.sessionize.com/image/f5e3-400o400o1-gDXDhitk1PSSukZUuCr8Y.png"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Kotlin",
+        "Libraries",
+        "API",
+        "Android Automotive",
+        "On-device ML"
+      ],
+      "level": "Intermediate",
+      "format": "Lightning talk",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1281089",
+      "title": "The ANRs You Can't See: Gojek's 80% Reduction with Custom Detection and AI Guardrails",
+      "abstract": "Gojek, the super app of Southeast Asia with 100M+ downloads, has reduced their ANR rate from 1.3% to below 0.3%. The easy bit was resolving main thread ANRs visible in user feedback reports. Here I'm going to talk about the hard part, ANRs not visible in Play Console, ANRs in background processes, and regressions your team keeps delivering.\r\nHere I will take you through three levels of our stack:\r\n\r\n1. Custom ANR detection: AppExitInfo, main thread watchdog, and native SIGQUIT handling driving a dashboard with pre-ANR/post-ANR session context\r\n2. Background ANR mitigation: FCM process migration, splitting a god Dagger component with 500+ bindings serializing, custom high frequency view optimization\r\n3. AI in the loop to prevent ANRs/Leaks agent skills and context files blocking the ANR/Leak inducing code generation, automated LeakCanary to MR Pipeline\r\n\r\n100% actionable patterns and agent skills you can leverage directly here: https://mintlify.wiki/AmolPardeshi99/android-performance-skills",
+      "startTime": "2026-11-20T16:05:00+05:30",
+      "endTime": "2026-11-20T16:25:00+05:30",
+      "rooms": [
+        "Ballroom 2"
+      ],
+      "speakers": [
+        {
+          "id": "1031ccf3-d6f9-4477-8b31-16ee395c4a45",
+          "name": "Amol Pardeshi",
+          "headline": "Gojek, Senior Software Engineer",
+          "bio": "Amol Pardeshi is a Senior Android Engineer working at Gojek as a part of its Mobile Platform Team. Gojek is the largest super app in South East Asia boasting 100M+ users. Amol has over 6+ years of experience in Android development and for the past three years, he has been focused specifically on Android Performance Engineering.\r\nHis contributions include developing a custom ANR SDK from scratch for Gojek based on AppExitInfo, watchdog, and native SIGQUIT signal handling with proactive regression alerts. This along with other performance improvements including optimization of Dagger graphs, fixing of background processes, and implementation of AI-driven code guardrails led to a reduction of Gojek’s user perceived ANR rate by 80%. His areas of expertise include crash rate control, memory leaks avoidance, app size minimization, and app startup optimization with large multi-module Kotlin codebase.\r\nAmol has spoken at droidcon India 2025 on Gojek's ANR reduction path and is an organizer in Bangalore Android community (BLRDroid).\r\n\r\nCurated ANR and Leak patterns to avoid - https://mintlify.wiki/AmolPardeshi99/android-performance-skills\r\nAgentic skills to write ANRs and Leaks free code - \r\nhttps://www.skills.sh/amolpardeshi99/android-performance-skills/android-performance-anr-and-jank-prevention\r\nhttps://www.skills.sh/amolpardeshi99/android-performance-skills/android-performance-memory-leak-prevention\r\nANRLab – ANR Tooling: https://github.com/AmolPardeshi99/ANRLab/ ",
+          "photoUrl": "https://cdn.sessionize.com/image/fce5-400o400o1-Qw2dcgXkFjWzsFus6JxrYk.jpg"
+        }
+      ],
+      "tags": [
+        "Tooling",
+        "CI/CD",
+        "Android",
+        "Kotlin"
+      ],
+      "level": "Advanced",
+      "format": "Lightning talk",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1310168",
+      "title": "Shipping 100+ Libraries in Minutes",
+      "abstract": "This session focuses on how Blinkit drastically reduced library publish time to minutes, enabling developer productivity at scale. We will emphasise four key areas: mono-repo architecture, BOM management, automated CI pipelines, and versioning.\r\n\r\nWe'll walk through the practical strategies that drove these improvements—including resolving complex transitive dependencies, auto-updating versions, enforcing binary compatibility, parallelising our release hierarchy, and selecting the optimal hardware and artifact registries.\r\n\r\nThese optimisations eliminated dependency conflicts and cut our build times, letting us ship 100+ KMP and Android libraries in minutes.",
+      "startTime": "2026-11-20T16:05:00+05:30",
+      "endTime": "2026-11-20T16:25:00+05:30",
+      "rooms": [
+        "Ballroom 3"
+      ],
+      "speakers": [
+        {
+          "id": "82d1ee2c-4cc9-4ea8-9829-0a001693f227",
+          "name": "Vatsal Kesarwani",
+          "headline": "Senior Software Engineer @Blinkit Supply ",
+          "bio": "Vatsal Kesarwani is the Senior Software Engineer at Blinkit Supply, where he scales the architecture, tooling, and mission-critical applications that run the company's operational backbone. His work spans performance optimisation, CI/CD, and cross-platform engineering using Kotlin Multiplatform and Jetpack Compose. He focuses on tackling complex engineering challenges to make large-scale Android development faster and highly reliable.",
+          "photoUrl": "https://cdn.sessionize.com/image/c79f-400o400o1-JQFU12z2sxm3aoiLPz77T7.jpg"
+        },
+        {
+          "id": "14c72573-5843-4578-9bf1-257047645f0d",
+          "name": "Mohit Tibrewal",
+          "headline": "Sr. Engineering Manager - Supply Chain Apps at Blinkit",
+          "bio": "Mohit Tibrewal is a Senior Engineering Manager at Blinkit, leading the Supply Apps team(backbone of Blinkit) and driving the development of scalable, reliable Android products. He brings deep expertise in Android, software architecture, and engineering excellence, while fostering a strong culture of ownership, collaboration, and continuous learning. He is passionate about solving complex technical challenges, building high-performing teams, and delivering impactful products at scale.",
+          "photoUrl": "https://cdn.sessionize.com/image/76d5-400o400o1-w5DwkRHNnKgwYmGviXocGa.jpg"
+        }
+      ],
+      "tags": [
+        "CI/CD",
+        "Android",
+        "KMP"
+      ],
+      "level": "Intermediate",
+      "format": "Lightning talk",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1326188",
+      "title": "Elevate your apps with the latest graphics features in Jetpack Compose and Android",
+      "abstract": "Ready to take your Android UI from \"it works\" to \"it’s a work of art\"?\r\n\r\n\r\nJoin us for a tour of the latest graphics capabilities in Jetpack Compose. We’ll show you how to build new visual effects, from delightful mesh gradients to progressive blurs, and using the powerful new graphics features in Android. We will also show you how to improve the performance of your graphics features, without sacrificing battery life or frame rates.",
+      "startTime": "2026-11-20T16:05:00+05:30",
+      "endTime": "2026-11-20T16:25:00+05:30",
+      "rooms": [
+        "Junior Ballroom"
+      ],
+      "speakers": [
+        {
+          "id": "5c2211f7-ae77-4709-8f1d-be61dfdc4819",
+          "name": "Rahul Ray",
+          "headline": "Developer Relations Engineer, Jetpack Compose ",
+          "bio": "An Android developer who blogs and talks tech.\r\n\r\nCurrently Working as Developer Relations Engineer for Jetpack Compose at Google",
+          "photoUrl": "https://cdn.sessionize.com/image/3ad7-400o400o1-MGenHyACC5T8vpHB3SJji4.jpg"
+        },
+        {
+          "id": "6027de63-0f40-49a4-93d5-f3928625a297",
+          "name": "Aayush Chaudhary",
+          "headline": "Software Engineer, Jetpack Compose",
+          "bio": "Aayush is a Software Engineer at Google on the Jetpack Compose team, working on the drawing side of the toolkit. He cares deeply about graphics performance and what it takes to put pixels on screen efficiently.",
+          "photoUrl": "https://cdn.sessionize.com/image/925f-400o400o1-SEveE8BF5ofrXsKwzwzVFC.png"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Jetpack Compose"
+      ],
+      "level": "Advanced",
+      "format": "Lightning talk",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1325375",
+      "title": "Custom Lint Rules: What Actually Stops Repeated Mistakes While Typing?",
+      "abstract": "Every codebase has architectural rules and style guides, but relying on documentation or late-stage PR comments often fails. While Custom Android Lint can catch violations inside the IDE immediately, developers and teams frequently struggle with writing stable rules, creating reliable quick-fixes, and keeping builds fast.\r\n\r\nInstead of basic tutorials, this circle discussion focuses on real-world engineering experiences. We will share which custom rules successfully save development time, which ones backfire by causing unnecessary frustration, and how to balance strict code enforcement with smooth daily developer workflows.",
+      "startTime": "2026-11-20T16:05:00+05:30",
+      "endTime": "2026-11-20T16:25:00+05:30",
+      "rooms": [
+        "unconference-roundtables"
+      ],
+      "speakers": [
+        {
+          "id": "dd5959f3-a22e-4927-98c0-2ba8585cf788",
+          "name": "Lubna Mariyam",
+          "headline": "Android & SDK Engineer at Zoho Apptics",
+          "bio": "Lubna Mariyam is an Android & SDK engineer who builds the scalable, reliable systems other developers depend on , from Jetpack Compose UIs to the build-time tooling and SDKs running quietly inside production apps. Her work spans ASM bytecode instrumentation, server-driven UI, background-execution reliability, and on-device AI/ML inference.\r\nShe gave her first conference talk at droidcon India 2025 in Bengaluru and writes technical engineering content for the developer community. Lubna is drawn to the layer most app developers never see , how the tools, SDKs, and build pipelines actually work under the hood  and enjoys turning hard-won production lessons into talks people can take straight back to their own work.",
+          "photoUrl": "https://cdn.sessionize.com/image/f807-400o400o1-pjBsXiNuDteQQhThpVwc1A.jpg"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "level": "Intermediate",
+      "format": "Unconference Roundtable",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "dc83935e-7a86-4533-86d4-05041cfe139b",
+      "title": "Break",
+      "abstract": "16:05 – 16:15 → 10 min",
+      "startTime": "2026-11-20T16:25:00+05:30",
+      "endTime": "2026-11-20T16:40:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": true
+    },
+    {
+      "id": "1305393",
+      "title": "CompositionLocal Is Not Just Theming: Scoping Your DI Graph to the Compose Tree",
+      "abstract": "Most Compose talks treat CompositionLocal as a theming mechanism — colors, typography, and not much else. It's also a legitimate way to scope your dependency graph to a Composable subtree instead of a lifecycle owner, and this talk shows a real, production implementation of that idea using Dagger's subcomponents (CompositionLocalProvider(LocalDealingComponent provides component) { content() }). Whether you use Dagger, Hilt, or Koin, the underlying question is the same: what happens to your DI scope's lifetime when it's tied to a Composable instead of an Activity or Fragment? This talk covers why we made that trade-off, what it buys you (feature-scoped graphs that die with the UI tree, not the Activity), where it gets risky (scope-lifetime confusion, misuse for graphs that should stay static), and a second pattern built on the same primitive: swapping in fake composables for UI testing with zero production code changes.",
+      "startTime": "2026-11-20T16:40:00+05:30",
+      "endTime": "2026-11-20T17:20:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [
+        {
+          "id": "e171be1d-57e0-4b0b-bdba-90a93d477084",
+          "name": "Vikas Kumar Jha",
+          "headline": "Engineer IG Group Bangalore",
+          "bio": "I am a Lean Android engineer with 11 years of experience building IG Group's multi-region trading app, working across UK, EU, and APAC regulatory markets. I focus on Android architecture, Jetpack Compose, and Kotlin coroutines at production scale.",
+          "photoUrl": "https://cdn.sessionize.com/image/9cf2-400o400o1-Ezhut1pzVGLHHTeydmbsbE.png"
+        }
+      ],
+      "tags": [],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1297555",
+      "title": "Beyond Server-Driven UI: Performance Lessons from JioHotstar's 1B+ Downloaded App",
+      "abstract": "Server-Driven UI is no longer just about rendering dynamic screens—it's about delivering a native, high-performance experience at scale.\r\nIn this session, I'll share engineering lessons inspired by engineering practices from JioHotstar, one of the world's largest streaming apps with more than 1B+ downloads.\r\n\r\nIn this session you will learn:\r\n - Predictive preloading to eliminate perceived loading delays.\r\n - Diff engine strategies to update only what's changed.\r\n - Performance techniques for ntelligent scheduling\r\n - Analytics instrumentation that scales without cluttering business logic\r\n\r\nWhether you're building an OTT, e-commerce, fintech, or any dynamic Android app, you'll leave with practical techniques to make your Server-Driven UI feel as fast and seamless as native.\r\n",
+      "startTime": "2026-11-20T16:40:00+05:30",
+      "endTime": "2026-11-20T17:20:00+05:30",
+      "rooms": [
+        "Ballroom 2"
+      ],
+      "speakers": [
+        {
+          "id": "1ab3d176-643c-48fc-bcab-a782275df11a",
+          "name": "Vishal Sheoran",
+          "headline": "Engineering Android, JioHotstar",
+          "bio": "I'm Vishal Sheoran, a Senior Software Development Engineer (Android) at JioHotstar, where I build Android experiences at scale. Over the past 6+ years, I've specialized in Jetpack Compose, performance engineering, mobile architecture, and Server-Driven UI. I spend my days eliminating jank—and creating just enough during live demos to keep things interesting.",
+          "photoUrl": "https://cdn.sessionize.com/image/420b-400o400o1-h1FoRFyh4gUtVXQshhpHUZ.jpg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Kotlin",
+        "Design",
+        "Modern Android Development"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1305135",
+      "title": "Compose Modifiers Under the Hood: Modifier.Node, the Node Chain & Custom Modifiers",
+      "abstract": "Every Compose UI you have ever written is held together by modifiers, yet most of us still treat them as a black box: we chain them, reorder them when the padding looks wrong, and move on. This session opens that box.\r\n\r\nWe start with two identical composables where only the order of .padding() and .background() is swapped, producing two completely different UIs. To explain why, we follow the code all the way down: how a composable emits a LayoutNode, how the composition tree differs from the layout tree, and how Modifier.then() builds a CombinedModifier - an ordered, immutable linked list of Modifier.Elements that gets applied to a single LayoutNode, in order.\r\n\r\nThen we look at why Google rewrote this system. Reading the real androidx source of Modifier.background before and after the migration (plus the AOSP change that introduced it), we will see why doing work inside a Modifier.Element meant redoing that work on every recomposition, and how the ModifierNodeElement + Modifier.Node split fixes it: a cheap element that only knows how to create() and update(), and a long-lived node that lives inside the LayoutNode's NodeChain and survives recomposition.\r\n\r\nWe finish by writing custom modifiers: a minimal DrawModifierNode built from scratch on stage, then a real one from a production open-source codebase - and why Modifier.composed is usually the wrong tool today.\r\n\r\nKey takeaways:\r\n1. Why modifier order changes your UI, explained through the modifier chain and the layout tree instead of trial and error.\r\n2. A precise mental model of Modifier, Modifier.Element, CombinedModifier, ModifierNodeElement, Modifier.Node, LayoutNode and NodeChain, and how they connect.\r\n3. The real cost of the old Modifier.Element design, read straight from androidx source history.\r\n4. A repeatable recipe for writing your own custom modifier with Modifier.Node, including handling changing parameters in update().\r\n5. Why Modifier.composed breaks recomposition skipping, and what to use instead.",
+      "startTime": "2026-11-20T16:40:00+05:30",
+      "endTime": "2026-11-20T17:20:00+05:30",
+      "rooms": [
+        "Ballroom 3"
+      ],
+      "speakers": [
+        {
+          "id": "6ec129ad-b124-4900-aec3-607f438d027d",
+          "name": "Sagar Malhotra",
+          "headline": "Android Developer · Content Creator · Community Organiser",
+          "bio": "Sagar Malhotra is an Android developer, educator, and content creator with a focus on the internals of the Compose and Android framework. On his YouTube channel he publishes deep-dive breakdowns for a community of 4k+ developers, walking through AndroidX source code to explain how Android actually behaves beneath the API surface, from low-level apis to the dev tools and best architectural practices.\r\n\r\nHe is a founder and organiser of the D4 Community, an inclusive group for developers, where he organises and speaks at events on modern Software development. He also contributes to some well-known open-source Android projects(Signal-android) and is an active voice in developer forums and technical blogs.\r\n\r\nSagar's goal on stage is to make advanced Android topics genuinely approachable: fewer buzzwords, more real source code, and a mental model the audience can apply the next day.",
+          "photoUrl": "https://cdn.sessionize.com/image/c31b-400o400o1-RGwdLUycm7yV7vnhCmfp7f.jpg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Kotlin",
+        "UI/UX",
+        "Modern Android Development",
+        "Jetpack Compose"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1298818",
+      "title": "Doom Scrolling: The Engineering Behind Seamless Video Feeds",
+      "abstract": "Smooth playback is one of the biggest factors behind a great feed experience, yet many Android apps still show a spinner on every scroll because media preparation only begins when the user arrives.\r\n\r\nThe obvious fix is preloading. DefaultPreloadManager prepares media before it is needed, and we'll cover how it works, how to integrate it into an existing Media3 player, and what it costs in bandwidth and memory.\r\n\r\nBut preloading alone breaks a feed. Every ExoPlayer instance holds a hardware decoder, and a device only has a handful. Create one per feed item and playback stops working somewhere around the sixth scroll, usually not as a clean crash but as black frames and a codec exception several items later. That's where PlayerPool and rememberPooledPlayer, new in Media3 1.11, come in: a fixed set of players recycled across a feed of any length.\r\n\r\nWe'll build it live. A naive feed scrolled fast until it breaks, so you see the failure mode as it actually presents. Then preloading, with time-to-first-frame measured before and after on a mid-range device. Then pooling, with the memory profile alongside.\r\n\r\nThe last section is tuning, because the defaults are not answers. Pool size and preload window trade against memory, decoder pressure and the user's mobile data. We'll look at what changes between a 3GB device and a flagship, what happens when someone flings through forty items in two seconds, and how to pick numbers you can defend in review.",
+      "startTime": "2026-11-20T16:40:00+05:30",
+      "endTime": "2026-11-20T17:20:00+05:30",
+      "rooms": [
+        "Junior Ballroom"
+      ],
+      "speakers": [
+        {
+          "id": "4cdef22b-a4de-4ffa-87f4-c594eb55bf8b",
+          "name": "Mansi Tanna",
+          "headline": "Senior Software Engineer at Wurth IT India",
+          "bio": "Mansi Tanna is a Mobile Developer with over 5 years of experience building Android and iOS applications. She specializes in Kotlin, Jetpack Compose, Swift, and Kotlin Multiplatform, with a focus on creating performant, scalable mobile experiences. She enjoys exploring modern Android frameworks, sharing practical engineering insights, and learning how things work under the hood.",
+          "photoUrl": "https://cdn.sessionize.com/image/2c0e-400o400o1-Rq4BfFKFZngZs32tygWj5c.jpg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Kotlin"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1325322",
+      "title": "Real-Time Collaboration: What Broke in Your KMP Sync?",
+      "abstract": "Building live, multi-platform collaboration sounds incredible on paper, but keeping Android, iOS, desktop, and web clients perfectly in sync is an engineering minefield. The real chaos starts when network connections drop, events arrive out of order, or duplicate data packets pile up in production.\r\n\r\nInstead of showing idealistic architecture diagrams, this circle discussion is a practical look into the realities of multi-platform state management. We can discuss raw stories of what happens when real-time sync systems fail, how to handle data conflicts across platforms without corrupting state, and how to debug tricky reconnection loops across different OS environments.",
+      "startTime": "2026-11-20T16:40:00+05:30",
+      "endTime": "2026-11-20T17:20:00+05:30",
+      "rooms": [
+        "unconference-roundtables"
+      ],
+      "speakers": [
+        {
+          "id": "92968186-85b8-42e7-a7cd-c3c262f7e369",
+          "name": "Rohit Kumar",
+          "headline": "Android Developer",
+          "bio": "I began my Android development journey three years ago and have since worked across startups and open-source projects, including Google Summer of Code. Along the way, I have gained hands-on experience with real-world engineering challenges, production codebases, and modern Android development practices. I currently work as an Android Developer at FloBiz, contributing to an app that helps lakhs of small and medium-sized businesses manage their operations.",
+          "photoUrl": "https://cdn.sessionize.com/image/b63e-400o400o1-BPafHMPDQJSTzGdTkkrBen.png"
+        }
+      ],
+      "tags": [],
+      "level": "",
+      "format": "Unconference Roundtable",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "23b53df0-c01f-46f3-8628-8444293d588e",
+      "title": "Break",
+      "abstract": "17:30 – 17:40 → 10 min",
+      "startTime": "2026-11-20T17:20:00+05:30",
+      "endTime": "2026-11-20T17:35:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": true
+    },
+    {
+      "id": "1310161",
+      "title": "The Right Pixels: Measuring and Fixing Android Image Delivery at Scale",
+      "abstract": "In a shopping app, images are the product surface rather than decoration. Users judge fabric, finish, colour and fit through pixels. That makes image optimization unusually constrained: a smaller response improves transfer time and can weaken the purchase decision, while a larger one preserves detail and wastes bandwidth, decode time and bitmap memory. Neither bytes saved nor request latency can serve as the success criterion on its own.\r\n\r\nThis session covers how we rebuilt Android image delivery around that constraint, the five experiments we ran, and why the approach that shipped was the least sophisticated of them.\r\n\r\nThe work started with observability, because \"image load time\" collapses several unrelated clocks into a single number that confirms a user waited without explaining why. We decomposed every load into preparation, fetch and render, correlated OkHttp and Cronet network events with the eventual Glide result even when format and domain transformations changed the URL in between, and did it without letting per-image telemetry become its own bandwidth and storage regression on a scrolling feed.\r\n\r\nThat instrumentation let us test hypotheses rather than argue about them. Raising dispatcher concurrency reduced queue wait without improving total delivery, because concurrency reschedules work instead of creating bandwidth or decode capacity. Bandwidth-aware downscaling was rolled back, because connection classification was not stable enough to be trusted with image quality, and detail removed at request time cannot be recovered on the client. Low-quality placeholders bought an earlier first pixel at the cost of a second request competing with the real one. Multi-resolution cache reuse helped, but only in one direction. Prefetching image URLs discovered during API response deserialisation accelerated a future screen when the predicted cache key matched, and stole bandwidth from the critical path when it did not.\r\n\r\nWhat shipped was a rule. Measure the width of the rendered surface, round up to the nearest supported bucket, and request that variant. It removed waste without asking users to accept less product detail, and it reduced response size, decode cost and bitmap memory together rather than trading one against another. The rule is trivial. Making it safe required display width to reach the image layer, a bucket set that never upscales, predictable cache identities, and a CDN generating the same variants.\r\n\r\nAttendees will learn how to:\r\n\r\nDecompose an Android image load into preparation, fetch and render, and instrument it without the telemetry becoming its own performance problem\r\nAttribute a slow fetch to dispatcher admission, cold connection setup, time to first byte or payload transfer when OkHttp and Cronet split ownership of the request\r\nTell apart optimizations that reschedule work from those that remove it, and why only the second kind compounds\r\nDesign one-way cache reuse so a larger cached bitmap can serve a smaller surface without ever upscaling into a false cache hit\r\nJudge when speculative work such as prefetching is safe, and when backpressure lets it delay the very screen it was meant to accelerate\r\n\r\nThe session is aimed at engineers who own an image-heavy Android surface and suspect their image pipeline is expensive, but cannot yet prove where the cost sits.",
+      "startTime": "2026-11-20T17:35:00+05:30",
+      "endTime": "2026-11-20T18:15:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [
+        {
+          "id": "1e4cd1c0-4d56-4609-b77f-3c8622474299",
+          "name": "Mohit Gupta",
+          "headline": "Senior Software Engineer, Android Platform",
+          "bio": "I am a Senior Software Engineer on the Android Platform team at Meesho, where I work on making the app faster and keeping it current. My work runs from how screens render and images load through to how long a full build takes. I also build and ship my own Android apps on the side, one of which has a small but steady base of paying users, which keeps me close to the parts of the platform that are genuinely hard.",
+          "photoUrl": "https://cdn.sessionize.com/image/2054-400o400o1-Sh43mScvRqWs26kcZLEPA1.png"
+        }
+      ],
+      "tags": [
+        "Android",
+        "UI/UX"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1296803",
+      "title": "Kotlin Over the Air: Reimagining Android/KMP App Delivery",
+      "abstract": "Every Android/KMP developer has experienced it.\r\n\r\n- A bug is fixed.\r\n- The PR is merged.\r\n- The code is ready.\r\n\r\nThen everyone waits for the Play Store or the Sprint!\r\n\r\nWe've accepted APK/bundle releases as the only way to deliver Android/KMP application, but what if Kotlin itself could become the deployment unit?\r\n\r\nIn this session, we'll explore an entirely different approach to Android/KMP feature delivery, one where standard Kotlin is compiled into a compact intermediate representation, securely delivered over the air, and executed inside a sandboxed runtime while still interacting with native Android APIs and rendering real Jetpack Compose UI.\r\n\r\nRather than focusing on a specific framework, we'll walk through the architecture behind modern Kotlin OTA systems:\r\n\r\n- Why APKs became the deployment boundary\r\n- Why JSON/DSL based approaches eventually hit architectural limits\r\n- How Kotlin compiler plugins can transform source into portable bytecode\r\n- Designing a secure on-device runtime without downloading DEX files\r\n- Keeping downloaded code Play-compliant using capability isolation and cryptographic verification\r\n- Making OTA execution feel indistinguishable from normal Android/KMP development\r\n\r\nWe'll also discuss the engineering challenges nobody talks about:\r\n\r\n- Compiler version compatibility\r\n- Runtime versioning\r\n- Compose integration\r\n- Performance trade-offs\r\n- Security boundaries\r\n- Developer experience\r\n\r\nIf you're interested in Kotlin engineering, Android/KMP internals, Kotlin, Compose, or simply curious about what the next generation of Android/KMP app delivery could look like, this session will give you an inside look at one possible future.",
+      "startTime": "2026-11-20T17:35:00+05:30",
+      "endTime": "2026-11-20T18:15:00+05:30",
+      "rooms": [
+        "Ballroom 2"
+      ],
+      "speakers": [
+        {
+          "id": "b4da69d6-794a-4aa3-abfd-0a4b3f685e2a",
+          "name": "Aditya Shinde",
+          "headline": "Founder, Ketoy",
+          "bio": "Founder at Ketoy. Android Developer with over 5 years of experience specializing in Android and Kotlin Multiplatform.\r\n\r\nDeeply in the Android community, having delivered 20+ speaker sessions and workshops across Android, FlutterFlow, and Kotlin Multiplatform to over 3,000 attendees.\r\n\r\nRuns the Android-focused YouTube channel @DeveloperChunk (1,000+ subscribers) and publishes technical deep-dives on Medium under the same handle.",
+          "photoUrl": "https://cdn.sessionize.com/image/d3c5-400o400o1-BFdXfEfCa1NPLWuAHxZN96.jpg"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Kotlin",
+        "Compose Multiplatform",
+        "KMP"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1326643",
+      "title": "Empowering Content Creators on Android using CameraX and Media3",
+      "abstract": "Modern content creation apps demand more from Android cameras and media pipelines than ever before. How do you build dual-camera recording, slow-motion capture, picture-in-picture, multi-track editing, and high-quality media processing without building everything from scratch?\r\n\r\nIn this session, learn how Jetpack CameraX and Media3 can help you build these experiences across Android devices.\r\n\r\nYou’ll learn how to:\r\n\r\n- Build advanced camera experiences with concurrent camera, low-light boost, and high-speed recording.\r\n- Create creator workflows such as picture-in-picture and script-assisted recording.\r\n- Build multi-track, multi-asset editing experiences with Media3.\r\n- Improve video and audio quality with recommended codecs, on-device enhancement, and noise suppression.\r\n- Support modern HDR media formats, including Eclipsa HDR.\r\n\r\nWalk away with practical patterns and Android APIs you can apply to build richer, more reliable content creation experiences.",
+      "startTime": "2026-11-20T17:35:00+05:30",
+      "endTime": "2026-11-20T18:15:00+05:30",
+      "rooms": [
+        "Ballroom 3"
+      ],
+      "speakers": [
+        {
+          "id": "9fc9069a-2820-405b-91fc-81d2257ff0a4",
+          "name": "Aman Choudhary",
+          "headline": "Developer Relations Engineer @Google",
+          "bio": "I'm Aman and I currently work as a Developer Relations Engineer at Google. I'm truly passionate about teaching 🧑‍🏫 and content creation 🎬, and I run a YouTube channel alongside my full-time role at Google. ",
+          "photoUrl": "https://cdn.sessionize.com/image/b69e-400o400o1-PnC53vXxuQcweFhBYuzYV3.jpg"
+        }
+      ],
+      "tags": [
+        "Android"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1304868",
+      "title": "Lessons from Writing a Custom Testing Framework",
+      "abstract": "After a decade of developing customer mobile apps, I switched to working on developer tooling. Over the past year, my team at Adyen has been developing an end-to-end testing framework to test payment terminals and mobile payment SDKs.\r\n\r\nOver the course of this development, we’ve had to work with Kotlin Symbol Processing(KSP), Kotlin Compiler Plugins, custom JUnit runners, IntelliJ IDEA plugins, and a lot more. Although we hear a lot about these frameworks, it’s often difficult to understand the context in which they should be used.\r\n\r\nIn this talk, I will walk you through our journey of experimenting with these technologies, how they fit into the puzzle, practical examples, and the overall thought processes behind developing such a custom end-to-end testing framework.",
+      "startTime": "2026-11-20T17:35:00+05:30",
+      "endTime": "2026-11-20T18:15:00+05:30",
+      "rooms": [
+        "Junior Ballroom"
+      ],
+      "speakers": [
+        {
+          "id": "96229d60-9142-4d92-b3c0-3efb6b81513e",
+          "name": "Subhrajyoti Sen",
+          "headline": "Senior Software Engineer at Adyen",
+          "bio": "Subhrajyoti is a Google Developer Expert for Android and a Senior Software Engineer at Adyen. He had been building mobile apps for a decade and also written multiple books on mobile development. When not writing code, you can find him binge-watching anime, reading up on public policy or playing Rocket League.",
+          "photoUrl": "https://cdn.sessionize.com/image/9252-400o400o1-UpSvmRSrnuvMzhHrDeAjCo.jpg"
+        }
+      ],
+      "tags": [
+        "Tooling",
+        "CI/CD",
+        "Kotlin",
+        "Gradle"
+      ],
+      "level": "Intermediate",
+      "format": "Session",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "1325310",
+      "title": "Server-Driven Android: How Much Control Is Too Much?",
+      "abstract": "The power to instantly alter app behavior or layout without waiting for a Google Play Store release is incredibly tempting, but handing total control to the backend frequently introduces severe security vulnerabilities, data parsing bugs, and backward-compatibility chaos. When a server payload changes unexpectedly, older client versions still live in production can instantly crash or misbehave.\r\n\r\nInstead of showing generic framework setups or code walkthroughs, this circle discussion focuses on the operational realities of server-driven architectures. We will discuss concrete experiences regarding what happens when remote configurations corrupt client states, how to handle edge cases where the backend tries to trigger actions the app cannot support, and where developers draw a firm boundary between server-driven UI and server-driven logic.",
+      "startTime": "2026-11-20T17:35:00+05:30",
+      "endTime": "2026-11-20T18:15:00+05:30",
+      "rooms": [
+        "unconference-roundtables"
+      ],
+      "speakers": [
+        {
+          "id": "8b285b06-1f50-469a-99f4-be185b0d63db",
+          "name": "Prakhar Gandhi",
+          "headline": "Lead AI Engineer @ Tiger Analytics | Google Developer Educator (Compose & KMP)",
+          "bio": "Prakhar Gandhi is a Lead AI Engineer at Tiger Analytics and a Google Developer Educator specializing in Jetpack Compose and Kotlin Multiplatform. A prolific builder with deep roots in modern mobile architecture and production AI systems, he bridges cutting-edge machine learning with scalable, cross-platform client applications. His work spans intelligent systems, hardware integrations using NFC tech, and early-stage product engineering with Heyum. Outside the terminal, Prakhar hosts The Broadcast Bros podcast, dissecting technology, product development, and engineering culture. He regularly shares practical, real-world patterns to help developers build fast, resilient, and intelligent cross-platform apps.",
+          "photoUrl": "https://cdn.sessionize.com/image/9e1c-400o400o1-N6eyd8xJ7nMrz7vFp289d9.png"
+        }
+      ],
+      "tags": [],
+      "level": "Intermediate",
+      "format": "Unconference Roundtable",
+      "service": false,
+      "plenum": false
+    },
+    {
+      "id": "39824dad-77d5-4ba8-97b7-1db6b0d99c63",
+      "title": "End of Show",
+      "abstract": "16:55 – 17:10 → 15 min",
+      "startTime": "2026-11-20T18:15:00+05:30",
+      "endTime": "2026-11-20T18:45:00+05:30",
+      "rooms": [
+        "Ballroom 1"
+      ],
+      "speakers": [],
+      "tags": [],
+      "level": "",
+      "format": "",
+      "service": true,
+      "plenum": true
+    }
+  ]
+}

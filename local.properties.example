@@ -1,0 +1,6 @@
+# Copy these entries into ignored root local.properties alongside sdk.dir.
+AGORA_APP_ID=YOUR_32_CHARACTER_APP_ID
+AGORA_APP_CERTIFICATE=YOUR_32_CHARACTER_APP_CERTIFICATE
+# Optional: enables Hindi speech through Murf. Supply your own key locally.
+MURF_API_KEY=
+# These values are compiled into your private demo APK. Do not publish that APK.
